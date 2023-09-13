@@ -40,30 +40,32 @@ Create an empty folder. Choose a name for the folder.
 
 ### Rectangle
 
-* $ w $ is the original width of the rectangle
-* $ h $ is the original height of the rectangle
-* $ f $ is the scaling factor
-* $ w' $ is the new width of the rectangle
-* $ h' $ is the new height of the rectangle.
+* w is the original width of the rectangle
+* h is the original height of the rectangle
+* f is the scaling factor
+* w' is the new width of the rectangle
+* h' is the new height of the rectangle.
 
 $$ w' = \sqrt{f} w $$
+
 $$ h' = \sqrt{f} h $$
 
 ### Circle
 
-* $ r $ is the original radius of the circle
-* $ f $ is the scaling factor
-* $ r' $ is the new radius of the circle.
+* r is the original radius of the circle
+* f is the scaling factor
+* r' is the new radius of the circle.
 
 $$ r' = \sqrt{f} r $$
 
 ### Triangle
 
-* $ b $ is the original base of the triangle
-* $ h $ is the original height of the triangle
-* $ f $ is the scaling factor
-* $ b' $ is the new base of the triangle
-* $ h' $ is the new height of the triangle.
+* b is the original base of the triangle
+* h is the original height of the triangle
+* f is the scaling factor
+* b' is the new base of the triangle
+* h' is the new height of the triangle.
 
 $$ b' = \sqrt{f} b $$
+
 $$ h' = \sqrt{f} h $$
