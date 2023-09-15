@@ -15,15 +15,15 @@ Create an empty folder. Choose a name for the folder.
 ### Class Library
 
 1. Create a class library `GeometryCalculator`.
-2. Add a static class `RectangleMath` to the library. It mus offer the following functions:
+2. Add a static class `RectangleMath` to the library. It must offer the following functions:
     1. `static double CalculateArea(double width, double height)` - Calculates the area of a rectangle with the given width and height.
     2. `static (double width, double height) CalculateScaledDimensions(double width, double height, double factor)` - Calculates the width and height of a rectangle whose area is the given factor times the area of the rectangle with the given width and height. The aspect ratio (width/height) must be preserved.
-3. Add a static class `CircleMath` to the library. It mus offer the following functions:
+3. Add a static class `CircleMath` to the library. It must offer the following functions:
     1. `static double CalculateArea(double radius)` - Calculates the area of a circle with the given radius.
     2. `static double CalculateScaledDimensions(double radius, double factor)` - Calculates the radius of a circle whose area is the given factor times the area of the circle with the given radius.
-4. Add a static class `TriangleMath` to the library. It mus offer the following functions:
+4. Add a static class `TriangleMath` to the library. It must offer the following functions:
     1. `static double CalculateArea(double baseLength, double height)` - Calculates the area of a triangle with the given base and height.
-    2. `static (double baseLength, double height) CalculateArea(double baseLength, double height, double factor)` - Calculates the base and height of a triangle whose area is the given factor times the area of the triangle with the given base and height. The aspect ratio (base/height) must be preserved.
+    2. `static (double baseLength, double height) CalculateScaledDimensions(double baseLength, double height, double factor)` - Calculates the base and height of a triangle whose area is the given factor times the area of the triangle with the given base and height. The aspect ratio (base/height) must be preserved.
 
 ### Console Application
 
