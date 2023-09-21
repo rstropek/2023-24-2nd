@@ -1,6 +1,6 @@
 ﻿namespace GeometryCalculator;
 
-public class CircleMath
+public static class CircleMath
 {
     public static double CalculateArea(double radius)
     {

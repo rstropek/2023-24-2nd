@@ -1,6 +1,6 @@
 ﻿namespace GeometryCalculator;
 
-public class TriangleMath
+public static class TriangleMath
 {
     public static double CalculateArea(double baseLength, double height)
     {

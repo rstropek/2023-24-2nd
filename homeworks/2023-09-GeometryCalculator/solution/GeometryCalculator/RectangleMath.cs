@@ -1,6 +1,6 @@
 ﻿namespace GeometryCalculator;
 
-public class RectangleMath
+public static class RectangleMath
 {
     public static double CalculateArea(double width, double height)
     {
