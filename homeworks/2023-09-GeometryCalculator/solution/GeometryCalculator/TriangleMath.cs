@@ -7,8 +7,8 @@ public class TriangleMath
         return baseLength * height / 2;
     }
 
-    public static (double baseLength, double height) CalculateScaledDimensions(double baselength, double height, double factor)
+    public static (double baseLength, double height) CalculateScaledDimensions(double baseLength, double height, double factor)
     {
-        return (baselength * Math.Sqrt(factor), height * Math.Sqrt(factor));
+        return (baseLength * Math.Sqrt(factor), height * Math.Sqrt(factor));
     }
 }
