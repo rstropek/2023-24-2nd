@@ -2,11 +2,11 @@
 
 ## Video Lecture (Part 1)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DoiFmqksfDs?si=ZpyaeDIzAQnXfpGP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Video lecture](http://img.youtube.com/vi/DoiFmqksfDs/0.jpg)](http://www.youtube.com/watch?v=DoiFmqksfDs "Video Lecture")
 
 ## Video Lecture (Part 2)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M9Q_PfRWW3o?si=L1vBCknvfeMMYWyS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Video lecture](http://img.youtube.com/vi/M9Q_PfRWW3o/0.jpg)](http://www.youtube.com/watch?v=M9Q_PfRWW3o "Video Lecture")
 
 ## Description
 
