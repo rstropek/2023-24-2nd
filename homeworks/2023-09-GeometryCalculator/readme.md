@@ -1,5 +1,13 @@
 # Geometry Calculator
 
+## Video Lecture (Part 1)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DoiFmqksfDs?si=ZpyaeDIzAQnXfpGP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Video Lecture (Part 2)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M9Q_PfRWW3o?si=L1vBCknvfeMMYWyS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Description
 
 You have to create a class library that is capable of calculating the area of different geometric figures (rectangle, circle, triangle). Additionally, the library must contain methods for increasing the area of figures by a given factor (e.g. *2* for doubling the area).
