@@ -1,5 +1,7 @@
 # Service Fee Calculator
 
+![Hero image](./hero.png)
+
 ## Introduction
 
 You got hired by a local mechanic to build a service fee calculator for his business. She offers different services provided by professionals with different skill levels. Here are the services she offers and the corresponding fees:
