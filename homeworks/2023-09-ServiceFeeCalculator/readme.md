@@ -27,11 +27,13 @@ Every repair job has the following data:
 
 ## Requirements Level 1
 
+### Class Library `ServiceFeeCalculator`
+
 [![](https://mermaid.ink/img/pako:eNp9ksFuwjAMhl8lymmTYAy6Fah2GrDDpF1gp6kXN3HbSGlTJc40xPruS4GBVjF8SfT7c-zY3nFhJPKECw3OLRUUFqq0ZsHW2ICyryZjT9_DIXsGp8RJu4issfAa7HVoYapG41cP2qc_o7uD2pkjq-qCLdEJqxpSpj77lkD4ripkGwJLF_RVLc9qZoxmGy8EOpd7fXC0vSITBllICYKYRKEq0GwBWoR_Eb4g3twe-L_dSK6y_bZcp_v9-Z_mA16hrUDJML99x1JOJVaY8iRcJebgNaU8rduA-kaG0JVUZCxPctAOBxw8mc22Fjwh6_EXOq7BidIGJIagHadt0y1LoRyFJ4Wpc1V0urc6yCVR45LRqHPfFYpKn90JU42ckmWYT_k5j0fxJJ7BJMJ4GsFjFEmRjeezfPIwzuX0fjwB3rYD3kD9Ycy5ANxX_Xbc1O5ofwBI4Oa_?type=png)](https://mermaid.live/edit#pako:eNp9ksFuwjAMhl8lymmTYAy6Fah2GrDDpF1gp6kXN3HbSGlTJc40xPruS4GBVjF8SfT7c-zY3nFhJPKECw3OLRUUFqq0ZsHW2ICyryZjT9_DIXsGp8RJu4issfAa7HVoYapG41cP2qc_o7uD2pkjq-qCLdEJqxpSpj77lkD4ripkGwJLF_RVLc9qZoxmGy8EOpd7fXC0vSITBllICYKYRKEq0GwBWoR_Eb4g3twe-L_dSK6y_bZcp_v9-Z_mA16hrUDJML99x1JOJVaY8iRcJebgNaU8rduA-kaG0JVUZCxPctAOBxw8mc22Fjwh6_EXOq7BidIGJIagHadt0y1LoRyFJ4Wpc1V0urc6yCVR45LRqHPfFYpKn90JU42ckmWYT_k5j0fxJJ7BJMJ4GsFjFEmRjeezfPIwzuX0fjwB3rYD3kD9Ycy5ANxX_Xbc1O5ofwBI4Oa_)
 
 Create a _base class_ called `RepairJob`. It must have the following properties:
 
-- `string Description { get; set; }`
+- `string Description { get; set; } = "";`
 - `DateTime Start { get; set; }`
 - `DateTime End { get; set; }`
 - `bool Successful { get; set; }`
@@ -39,12 +41,6 @@ Create a _base class_ called `RepairJob`. It must have the following properties:
 `RepairJob` must also include an `abstract` method `public abstract decimal CalculateFee();`.
 
 Create derived classes `BasicRepairJob`, `RegularRepairJob` and `ComplexRepairJob` that inherit from `RepairJob`. They must implement the `CalculateFee()` method according to the rules described above.
-
-Write a console app for calculating the fee of a job:
-
-* Ask the user for all necessary data (e.g. type of repair job, description, start and end date and time, etc.)
-* Create an instance of the appropriate class
-* Call `CalculateFee()` and print the result to the console
 
 **Tipp**: Take a look at [this code sample](https://dotnetfiddle.net/UPxCVi) to learn how to calculate the number of hours between two `DateTime` values.
 
@@ -59,6 +55,14 @@ var jobDuration = Math.Ceiling((end - start).TotalHours);
 Console.WriteLine($"{jobDuration}");
 ```
 
+### Console App `ServiceFeeCalculatorApp`
+
+Write a console app for calculating the fee of a job:
+
+* Ask the user for all necessary data (e.g. type of repair job, description, start and end date and time, etc.)
+* Create an instance of the appropriate class
+* Call `CalculateFee()` and print the result to the console
+
 ## Requirements Level 2
 
 [![](https://mermaid.ink/img/pako:eNp9kslOwzAQhl_F8gmkLrSFAhEnKByQAIlyQrlM7EliyUtkjxGo5N1xWuimUl9s_fPN6llw4STyjAsNIcwUVB5Mblk6r9iA8o-uYDff_T67haDEWjuIvGIVNfjj0J0zjcbPPWiZfoMuVmp3AnllKzbDILxqSDm7sc2A8E0ZZHMCTwf0eys3auGcZvMoBIZQRr0ytNv5d3vcKkJZYs_RFOhfyicUNVglwk6AtVfGoEg1gyAmUSgDmt2BFmkwhA-IJ6crfjdVdpTdn-txen_A_9O8xw16A0qmBVh2m3Oq0WDOs_SUWELUlPPctgmNjUyu91KR8zwrQQfscYjk5l9W8Ix8xD_od4_WlHYgMTktOH013bZVKlAKKZwtVdXp0esk10RNyIbDzjyoFNWxGAhnhkHJOn1w_XE9HU7H0ysYT3B6OYGLyUSKYnR9VY7PR6W8PBuNgbdtjzdg353bFIDLqp9-V7272h8Li_u_?type=png)](https://mermaid.live/edit#pako:eNp9kslOwzAQhl_F8gmkLrSFAhEnKByQAIlyQrlM7EliyUtkjxGo5N1xWuimUl9s_fPN6llw4STyjAsNIcwUVB5Mblk6r9iA8o-uYDff_T67haDEWjuIvGIVNfjj0J0zjcbPPWiZfoMuVmp3AnllKzbDILxqSDm7sc2A8E0ZZHMCTwf0eys3auGcZvMoBIZQRr0ytNv5d3vcKkJZYs_RFOhfyicUNVglwk6AtVfGoEg1gyAmUSgDmt2BFmkwhA-IJ6crfjdVdpTdn-txen_A_9O8xw16A0qmBVh2m3Oq0WDOs_SUWELUlPPctgmNjUyu91KR8zwrQQfscYjk5l9W8Ix8xD_od4_WlHYgMTktOH013bZVKlAKKZwtVdXp0esk10RNyIbDzjyoFNWxGAhnhkHJOn1w_XE9HU7H0ysYT3B6OYGLyUSKYnR9VY7PR6W8PBuNgbdtjzdg353bFIDLqp9-V7272h8Li_u_)
@@ -70,8 +74,6 @@ It turned out that we missed something. Basic repair jobs are sometimes done by 
 Adjust the implementation of `CalculateFee()` accordingly.
 
 ## Requirements Level 3
-
-**Note**: This is already an advanced requirement.
 
 Our mechanic has a price change. For *Junior mechanics*, she now charges 5€ per started quarter of an hour (e.g. 5 minutes mean 5€, 1 hour 5 minutes mean 25€). Adjust the implementation of `CalculateFee()` accordingly.
 

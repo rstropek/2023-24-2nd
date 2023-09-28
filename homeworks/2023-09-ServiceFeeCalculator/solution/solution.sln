@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceFeeCalculator", "ServiceFeeCalculator\ServiceFeeCalculator.csproj", "{276B93EF-0CCF-4E39-BBCE-AC5F819A6CA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceFeeCalculator.App", "ServiceFeeCalculator.App\ServiceFeeCalculator.App.csproj", "{F82721C7-252E-49AB-A7A6-6956187E1870}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{276B93EF-0CCF-4E39-BBCE-AC5F819A6CA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{276B93EF-0CCF-4E39-BBCE-AC5F819A6CA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{276B93EF-0CCF-4E39-BBCE-AC5F819A6CA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{276B93EF-0CCF-4E39-BBCE-AC5F819A6CA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F82721C7-252E-49AB-A7A6-6956187E1870}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F82721C7-252E-49AB-A7A6-6956187E1870}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F82721C7-252E-49AB-A7A6-6956187E1870}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F82721C7-252E-49AB-A7A6-6956187E1870}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
