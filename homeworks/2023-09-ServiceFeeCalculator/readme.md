@@ -90,3 +90,15 @@ We got something wrong again. It turned out that master mechanics also work in t
 `BasicRepairJob` and `RegularRepairJob` get a new base class: `TeamRepairJob`. In this class, we add a property `int NumberOfMechanics { get; set; }`.
 
 `BasicRepairJob` and `RegularRepairJob` must now implement `CalculateFeeSingleMechanic` which calculates the fee for a single mechanic. `TeamRepairJob.CalculateFee()` calls `CalculateFeeSingleMechanic` and multiplies the result with `NumberOfMechanics`.
+
+## Requirements Level 5
+
+**Note**: This is a quite advanced requirement for your current level of knowledge. If you want to try this level, talk to your teacher in case of questions.
+
+Our customer tells us that she often has large orders that consist of **multiple** jobs. Change your program as follows:
+
+* Ask the user for the number of jobs
+* For each job, ask for the necessary data
+* Calculate and print the fee for each job **and the total fee**
+
+**Note:** During data entry, you **must** store all the jobs in a collection (e.g. array). The calculation of the fees must be done **after** all jobs have been entered.
