@@ -1,5 +1,7 @@
 # Role Playing Game
 
+![Hero Image](./hero.png)
+
 ## Description
 
 You are one of the developers of a role-playing game (RPG). Your job is to implement a class hierarchy for the different characters, their attacks and defenses, and for executing in-game fights.
