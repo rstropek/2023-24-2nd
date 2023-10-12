@@ -10,7 +10,7 @@ public class Person
     // but they don't have to. That is the difference to abstract
     // methods, which MUST be overridden by descendent classes.
     public virtual double CalculateDamage() => 0d;
-    public virtual int CalculateDefense() => 0;
+    public virtual double CalculateDefense() => 0d;
 }
 
 public class Warrior : Person
@@ -28,7 +28,7 @@ public class Warrior : Person
     }
 
     public override double CalculateDamage() => Attack.CalculateDamage();
-    public override int CalculateDefense() => Defense.CalculateDefense();
+    public override double CalculateDefense() => Defense.CalculateDefense();
 }
 
 public class Mage : Person

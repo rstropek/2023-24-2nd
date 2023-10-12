@@ -33,21 +33,21 @@ public class AttackSpell : Attack
 
 public abstract class Defense
 {
-    public int BaseDefenseValue { get; set; }
-    public abstract int CalculateDefense();
+    public double BaseDefenseValue { get; set; }
+    public abstract double CalculateDefense();
 }
 
 public class Shield : Defense
 {
     public string Name { get; set; } = "";
-    public override int CalculateDefense()
+    public override double CalculateDefense()
         // Shields offer between 75% and 100% of their base defense value
-        => BaseDefenseValue * Random.Shared.Next(75, 100) / 100;
+        => BaseDefenseValue * Random.Shared.Next(75, 100) / 100d;
 }
 
 public class Armor : Defense
 {
-    public override int CalculateDefense()
+    public override double CalculateDefense()
         // Armors always offer their full defense value
         => BaseDefenseValue;
 }
