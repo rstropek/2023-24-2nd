@@ -41,7 +41,7 @@ There are three types of accounts:
     - `Transaction`
 - `Account` must declare an _abstract_ method `abstract bool IsAllowed(Transaction)`. The method returns `true` if the transaction is allowed for the account, otherwise `false`.
 - `Account` must define a method `bool TryExecute(Transaction)`. The method first checks if the transaction is allowed by calling `IsAllowed`. If the transaction is allowed, the method updates the `CurrentBalance` of the account and returns `true`. Otherwise, the method returns `false`.
-- The classes derived from `Account` must implement the two abstract methods.
+- The classes derived from `Account` must implement the abstract method.
 
 ### Console App
 

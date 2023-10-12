@@ -1,0 +1,6 @@
+AccountNumber;Description;Amount;Timestamp
+ABC1234;Buy new TV;-500;2020-10-25T09:00:00
+XYZ9876;Salary Payment;-10000;2020-10-25T09:00:00
+DEF4567;Salary Payment;10000;2020-10-25T09:00:00
+ASD4535;Initial transfer;10000;2020-10-25T09:00:00
+ASD4535;Withdrawal;-5000;2020-12-01T09:00:00

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bank.App", "Bank.App\Bank.App.csproj", "{F1CE8EA4-1F33-408A-8742-FA5A228037EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bank.Logic", "Bank.Logic\Bank.Logic.csproj", "{FAAC1F01-7EA9-43F2-B464-DF558D285118}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1CE8EA4-1F33-408A-8742-FA5A228037EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1CE8EA4-1F33-408A-8742-FA5A228037EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1CE8EA4-1F33-408A-8742-FA5A228037EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1CE8EA4-1F33-408A-8742-FA5A228037EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAAC1F01-7EA9-43F2-B464-DF558D285118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAAC1F01-7EA9-43F2-B464-DF558D285118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAAC1F01-7EA9-43F2-B464-DF558D285118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAAC1F01-7EA9-43F2-B464-DF558D285118}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

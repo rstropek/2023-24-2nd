@@ -1,0 +1,4 @@
+Type;AccountNumber;AccountHolder;CurrentBalance
+c;ABC1234;John Doe;1000
+b;XYZ9876;Jane Doe;100000
+s;DEF4567;Max Mustermann;50000

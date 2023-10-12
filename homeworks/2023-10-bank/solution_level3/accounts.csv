@@ -1,0 +1,5 @@
+Type;AccountNumber;AccountHolder;CurrentBalance;OpeningDate;FixedUntil
+c;ABC1234;John Doe;1000;;
+b;XYZ9876;Jane Doe;100000;;
+s;DEF4567;Max Mustermann;50000;;
+f;ASD4535;Tom Turbo;0;2020-10-25;2021-10-25

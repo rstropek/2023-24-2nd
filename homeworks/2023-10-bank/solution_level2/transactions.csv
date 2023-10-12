@@ -1,0 +1,5 @@
+AccountNumber;Description;Amount;Timestamp
+ABC1234;Buy new TV;-500;2020-10-25T09:00:00
+XYZ9876;Salary Payment;-10000;2020-10-25T09:00:00
+DEF4567;Payment;10000;2020-10-25T09:00:00
+ABC1234;Buy new car;-50000;2020-10-26T09:00:00
