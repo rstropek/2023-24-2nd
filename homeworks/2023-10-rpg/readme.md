@@ -28,7 +28,7 @@ There are two forms of defense in the game:
 
 ### Characters
 
-Every character has a certain number of initial health points. Additionally, every character has a name (e.g. _Aeliana the Shieldmaiden_).
+Every character has a certain number of initial health points (should be set to 100 by default). Additionally, every character has a name (e.g. _Aeliana the Shieldmaiden_).
 
 There are three types of characters in the game:
 
