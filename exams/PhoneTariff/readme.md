@@ -1,5 +1,7 @@
 # Phone Tariffs
 
+## Video Walkthrough
+
 [![Video](http://img.youtube.com/vi/wwPdJnzdIk4/0.jpg)](http://www.youtube.com/watch?v=wwPdJnzdIk4 "Video")
 
 ## Introduction
