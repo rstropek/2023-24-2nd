@@ -1,5 +1,7 @@
 # Phone Tariffs
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wwPdJnzdIk4?si=xWFfSVhnFSmTIYX8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Introduction
 
 You work at a phone company. This company offers a lot of different phone tariffs. However, you can group them into three different, fundamental types of tariffs (note that we ignore phone calls in this simplified example and focus on data usage only):
