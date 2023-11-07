@@ -10,7 +10,7 @@ Here are the rules.
 
 ### Attacks
 
-Every form of attack inflict a certain amount of base damage. However, the actual damage inflicted depends on a random factor to make the game more interesting. 
+Every form of attack inflict a certain amount of base damage. However, the actual damage inflicted depends on a random factor to make the game more interesting.
 
 There are two forms of attacks in the game:
 
@@ -28,7 +28,7 @@ There are two forms of defense in the game:
 
 ### Characters
 
-Every character has a certain number of initial health points. Additionally, every character has a name (e.g. _Aeliana the Shieldmaiden_).
+Every character has a certain number of initial health points (should be set to 100 by default). Additionally, every character has a name (e.g. _Aeliana the Shieldmaiden_).
 
 There are three types of characters in the game:
 
