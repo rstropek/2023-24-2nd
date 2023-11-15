@@ -1,5 +1,7 @@
 # Restaurant Queue
 
+![Hero image](hero.png)
+
 ## Introduction
 
 You work as a software developer in a very popular restaurant. Every day, there is a long queue of people who would like to eat there. The restaurant has a limited number of tables, so not everyone can be seated. The restaurant manager has asked you to write a program that will help him manage the queue. He wants to serve people on a first-come-first-served basis.
