@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to your internship at _FashionForward_, a dynamic clothing company venturing into the online marketplace. As part of the digital transformation team, you are tasked with developing a key component of the inventory management system. Your challenge is to simulate the management of boxes in our warehouse using the stack data structure in C#. 
+Welcome to your internship at _FashionForward_, a dynamic clothing company venturing into the online marketplace. As part of the digital transformation team, you are tasked with developing a key component of the inventory management system. Your challenge is to simulate the management of boxes in our warehouse using the stack data structure in C#.
 
 ## Background
 
@@ -24,8 +24,6 @@ Your primary objective is to write a program in C# that accurately tracks and ma
 
 Here is an example flow of operations:
 
-Certainly! Here's a simple example flow of incoming and outgoing boxes for the warehouse exercise:
-
 1. Box of Socks arrives. (Stack: Socks)
 2. Box of Trousers arrives. (Stack: Trousers, Socks)
 3. Box of Shirts arrives. (Stack: Shirts, Trousers, Socks)
@@ -41,11 +39,6 @@ Certainly! Here's a simple example flow of incoming and outgoing boxes for the w
 
 ![Operations visualized](./warehouse_stack_operations.svg)
 
-#### Final State of the Stack
-- Underwear, Trousers, Trousers, Socks
-
-In this example, students would need to write a program that can simulate these operations, correctly maintaining the order of the boxes and calculating the total number of movements required for each request. The example provides a clear and straightforward scenario for testing their implementation.
-
 ### Requirements
 
 - Implement the stack data structure in C#. Do **not** use the built-in stack class or any other built-in collection classes.
@@ -60,39 +53,20 @@ The file `operations.txt` contains a sequence of incoming and outgoing box reque
 Total box movements: 100
 ```
 
-Certainly! Here's a chapter for the homework specification, detailing the advanced requirements for the warehouse management exercise with multiple stacks:
-
----
-
 ## Advanced Warehouse Management with Multiple Stacks
 
 ### Introduction
 
 In this advanced exercise, you'll tackle a more complex scenario in FashionForward's warehouse. The warehouse now features five separate stacks for storing boxes of clothing. Your challenge is to manage these stacks efficiently, optimizing the placement and retrieval of boxes under new operational constraints.
 
-### Objective
-
-Develop a C# program that simulates a warehouse with five stacks, numbered 0-4. Your program must efficiently handle incoming and outgoing boxes, following specific rules for placement and shipping.
+Develop a C# program that simulates a warehouse with five stacks, numbered 0-4. Your program must handle incoming and outgoing boxes, following specific rules for placement and shipping.
 
 ### Requirements
 
-#### Stack Management
-
-- **Multiple Stacks**: The warehouse has five stacks for box storage.
-- **Stack Identification**: Stacks are numbered from 0 to 4.
-
-#### Incoming Boxes
-
 - **Placement Rule**: When a new box arrives, it should be placed on the stack with the lowest height.
-- **Tiebreaker**: If multiple stacks have the same height, place the box on the stack with the lowest number.
-
-#### Shipping Boxes
-
+  - **Tiebreaker for Placement**: If multiple stacks have the same height, place the box on the stack with the lowest number.
 - **Retrieval Rule**: When a specific type of clothing is to be shipped, find the stack where the box is nearest to the top.
-- **Tiebreaker for Shipping**: If the required box is at the same depth in multiple stacks, retrieve it from the stack with the lowest number.
-
-#### Moving Boxes
-
+  - **Tiebreaker for Shipping**: If the required box is at the same depth in multiple stacks, retrieve it from the stack with the lowest number.
 - **No Temporary Stack**: Unlike the basic version, there is no separate temporary stack.
 - **Relocation Rule**: If you need to move boxes to reach a specific box, relocate each box to the stack with the lowest height.
-- **Tiebreaker for Relocation**: If multiple stacks have the same height, move the box to the stack with the lowest number.
+  - **Tiebreaker for Relocation**: If multiple stacks have the same height, move the box to the stack with the lowest number.
