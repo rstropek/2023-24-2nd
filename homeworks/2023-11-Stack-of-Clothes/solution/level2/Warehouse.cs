@@ -11,21 +11,26 @@ class Warehouse
     }
 
     // Method to handle incoming boxes
-    public void Incoming(string boxContent)
+    public void Incoming(string boxContent, ClothesStack? stackToAvoid = null)
     {
+        // stackToAvoid is used to prevent a box from being placed on the same stack
+        // as it is relocated from. This is used in the Shipping method.
+
         // Find the stack with the lowest height
-        ClothesStack targetStack = stacks[0];
-        for (int i = 1; i < stacks.Length; i++)
+        var minHeight = int.MaxValue;
+        var targetStackIndex = -1;
+        for (int i = 0; i < stacks.Length; i++)
         {
-            if (stacks[i].Count < targetStack.Count)
+            if (stacks[i].Count < minHeight && (stackToAvoid == null || stacks[i] != stackToAvoid))
             {
-                targetStack = stacks[i];
+                minHeight = stacks[i].Count;
+                targetStackIndex = i;
             }
         }
 
-        targetStack.Push(boxContent);
+        stacks[targetStackIndex].Push(boxContent);
     }
-
+    
     // Method to handle shipping orders
     public int Shipping(string boxContent)
     {
@@ -50,7 +55,11 @@ class Warehouse
         {
             string tempItem = sourceStack.Pop();
             moveCount++;
-            Incoming(tempItem);  // Relocate to another stack
+
+            // Relocate to another stack. For that, we can use the existing
+            // Incoming method, but we need to avoid placing the box on the
+            // same stack as it is relocated from.
+            Incoming(tempItem, sourceStack);  
         }
 
         // Pop the desired box

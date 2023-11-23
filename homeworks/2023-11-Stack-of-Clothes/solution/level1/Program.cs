@@ -1,8 +1,7 @@
-﻿string filePath = "operations.txt"; // Path to the file containing operations
+﻿string filePath = "operations.txt";
 var operations = File.ReadAllLines(filePath);
-var mainStack = new ClothesStack(); // Main stack for storing clothes boxes
-var tempStack = new ClothesStack(); // Temporary stack used during shipping
-int moveCount = 0; // Counter for the number of box movements
+var warehouse = new Warehouse();
+int moveCount = 0;
 
 foreach (var operation in operations)
 {
@@ -10,45 +9,21 @@ foreach (var operation in operations)
     switch (parts[0].ToLower())
     {
         case "incoming":
-            // Process incoming operation by pushing the item onto the main stack
-            mainStack.Push(parts[1]);
+            warehouse.Incoming(parts[1]); // Process incoming operation
             moveCount++; // Increment move count for each incoming operation
             break;
 
         case "shipping":
-            // Process shipping operation. Start by pushing items from the main stack 
-            // onto the temporary stack until the requested item is found.
-            var found = false;
-            while (!mainStack.IsEmpty())
-            {
-                string tempItem = mainStack.Pop();
-                moveCount++; // Increment move count for each pop
-                if (tempItem == parts[1])
-                {
-                    found = true;
-                    break; // Item found, exit the loop
-                }
-                else
-                {
-                    tempStack.Push(tempItem); // Push item onto temporary stack
-                }
-            }
-
-            // Handle case where the requested item is not found
-            if (!found)
-            {
-                Console.WriteLine($"Requested item {parts[1]} not found.");
-            }
-
-            // Move items back from the temporary stack to the main stack
-            while (!tempStack.IsEmpty())
-            {
-                mainStack.Push(tempStack.Pop());
-                moveCount++; // Increment move count for each move back
-            }
-
+            // Process shipping operation. The shipping method returns the 
+            // number of box movements.
+            moveCount += warehouse.Shipping(parts[1]);
             break;
     }
+
+    Console.WriteLine();
+    Console.WriteLine(operation);
+    Console.WriteLine(warehouse);
+    Console.WriteLine($"Box movements: {moveCount}");
 }
 
-Console.WriteLine($"Total box movements: {moveCount}"); // Output total box movements
+Console.WriteLine($"\nTotal box movements: {moveCount}");
