@@ -1,0 +1,9 @@
+html, body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: lightsteelblue;
+}
+
+#app {
+    width: 1024px;
+    margin: 0 auto;
+}

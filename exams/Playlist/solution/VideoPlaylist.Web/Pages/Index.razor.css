@@ -1,0 +1,83 @@
+.container {
+    display: flex;
+    flex-direction: row;
+}
+
+.player {
+    width: 400px;
+}
+
+
+.queue {
+    display: flex;
+    flex-direction: column;
+}
+
+.queue .first {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border: 1px solid black;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: lightgray;
+    margin-bottom: 10px;
+}
+
+.queue .first button {
+    padding: 13px;
+}
+
+.queue .first .header {
+    font-size: 12px;
+    font-weight: normal;
+}
+
+.queue .rest {
+    font-size: 12px;
+    padding: 20px;
+}
+
+.queue .rest .header {
+    font-weight: normal;
+    margin-left: -10px;
+    font-weight: bold;
+    margin-bottom: 2px;
+}
+
+.playlist {
+    padding: 15px;
+    width: 100%;
+    margin-left: 15px;
+    background-color: white;
+}
+
+h2 {
+    margin-top: 0;
+}
+
+.add {
+    display: flex;
+    flex-direction: row;
+}
+
+.add .movieSelection {
+    padding-right: 5px;
+}
+
+.add .movieSelection select {
+    padding: 5px;
+}
+
+.add .actions div:first-of-type {
+    margin-bottom: 5px;
+}
+
+.add .actions button {
+    padding: 5px;
+}
+
+.add .actions input {
+    padding: 5px;
+}

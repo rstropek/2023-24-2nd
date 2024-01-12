@@ -1,0 +1,69 @@
+﻿@page "/"
+@using Blazored.Video
+@using Blazored.Video.Support
+@using VideoPlaylist.Logic;
+
+<div class="container">
+
+    <div class="player">
+        <BlazoredVideo class="w-100" style="width:400px;" controls="controls" @ref="Video" EndedEvent="Ended">
+            <source src="@CurrentlyPlayingUrl" type="video/mp4" />
+        </BlazoredVideo>
+    </div>
+
+    <div class="playlist">
+        <div class="queue">
+            @if (CurrentlyPlayingName != null)
+            {
+                <div class="first">
+                    <div>
+                        <div class="header">Now playing:</div>
+                        <div>@CurrentlyPlayingName</div>
+                    </div>
+                    <div>
+                        <button @onclick="Ended">Next video</button>
+                    </div>
+                </div>
+            }
+
+            @if (Playlist.First?.Next != null)
+            {
+                <div class="rest">
+                    <div class="header">Up next:</div>
+                    @for (var v = Playlist.First?.Next; v != null; v = v.Next)
+                    {
+                        <div>@v.MovieName</div>
+                    }
+                </div>
+            }
+        </div>
+
+        <div class="add">
+            <div class="movieSelection">
+                <select @onchange="SelectedMovieChanged">
+                    @foreach (var m in AvailableMovies)
+                    {
+                        @if (m != SelectedMovieName)
+                        {
+                            <option>@m</option>
+                        }
+                        else
+                        {
+                            <option selected>@m</option>
+                        }
+                    }
+                </select>
+            </div>
+            <div class="actions">
+                <div>
+                    <button @onclick="AddMovie">Append at the end</button>
+                    <button @onclick="PlayNext">Play this video next</button>
+                </div>
+                <div>
+                    <button @onclick="InsertBefore">Insert before:</button>
+                    <input type="text" @bind="InsertBeforeTitle" />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
