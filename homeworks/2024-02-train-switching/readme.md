@@ -1,4 +1,6 @@
-# Exercise Specification: Train Switching Management at a Medium-Sized Railway Station
+# Train Switching Management
+
+![Hero Image](./hero.png)
 
 ## Overview
 
