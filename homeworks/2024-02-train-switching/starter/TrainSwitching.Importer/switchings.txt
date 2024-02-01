@@ -1,0 +1,2000 @@
+At track 7, add Locomotive from West
+At track 4, train leaves to East
+At track 10, remove 4 wagons from West
+At track 4, remove 5 wagons from East
+At track 7, add Car Transport Wagon from West
+At track 3, add Passenger Wagon from East
+At track 10, remove 2 wagons from West
+At track 10, train leaves to East
+At track 6, remove 2 wagons from East
+At track 10, remove 4 wagons from East
+At track 4, add Freight Wagon from East
+At track 3, remove 2 wagons from West
+At track 9, remove 3 wagons from East
+At track 2, add Locomotive from East
+At track 9, add Passenger Wagon from East
+At track 10, train leaves to East
+At track 5, train leaves to West
+At track 9, add Car Transport Wagon from East
+At track 10, add Passenger Wagon from West
+At track 10, add Locomotive from East
+At track 4, remove 1 wagon from West
+At track 2, add Freight Wagon from West
+At track 9, add Locomotive from East
+At track 5, remove 2 wagons from East
+At track 5, add Car Transport Wagon from West
+At track 4, remove 5 wagons from West
+At track 2, add Freight Wagon from West
+At track 5, add Locomotive from West
+At track 3, remove 1 wagon from West
+At track 9, add Car Transport Wagon from West
+At track 4, add Passenger Wagon from East
+At track 3, add Freight Wagon from East
+At track 10, add Passenger Wagon from West
+At track 5, add Car Transport Wagon from West
+At track 5, add Passenger Wagon from West
+At track 1, add Passenger Wagon from East
+At track 6, add Passenger Wagon from West
+At track 6, add Freight Wagon from West
+At track 3, remove 4 wagons from East
+At track 6, add Car Transport Wagon from East
+At track 2, remove 3 wagons from West
+At track 2, remove 2 wagons from East
+At track 2, add Locomotive from East
+At track 8, add Passenger Wagon from West
+At track 8, add Passenger Wagon from East
+At track 5, add Passenger Wagon from West
+At track 2, add Freight Wagon from East
+At track 7, add Locomotive from West
+At track 3, add Locomotive from East
+At track 9, add Car Transport Wagon from West
+At track 5, remove 1 wagon from West
+At track 3, add Passenger Wagon from East
+At track 4, add Freight Wagon from West
+At track 2, add Passenger Wagon from West
+At track 7, add Passenger Wagon from East
+At track 10, add Freight Wagon from East
+At track 5, remove 4 wagons from West
+At track 9, add Passenger Wagon from West
+At track 8, add Passenger Wagon from West
+At track 10, add Locomotive from West
+At track 10, add Car Transport Wagon from East
+At track 10, add Car Transport Wagon from East
+At track 1, add Passenger Wagon from East
+At track 4, train leaves to West
+At track 1, remove 4 wagons from East
+At track 5, add Car Transport Wagon from East
+At track 5, remove 1 wagon from East
+At track 3, add Car Transport Wagon from West
+At track 10, add Freight Wagon from East
+At track 8, remove 3 wagons from East
+At track 5, add Locomotive from East
+At track 10, add Freight Wagon from East
+At track 2, train leaves to West
+At track 8, add Car Transport Wagon from West
+At track 7, add Locomotive from East
+At track 7, add Freight Wagon from West
+At track 7, add Locomotive from West
+At track 5, add Freight Wagon from West
+At track 5, remove 4 wagons from West
+At track 6, add Freight Wagon from East
+At track 8, remove 5 wagons from West
+At track 5, remove 1 wagon from West
+At track 10, add Passenger Wagon from West
+At track 10, add Freight Wagon from East
+At track 7, add Freight Wagon from East
+At track 1, add Car Transport Wagon from West
+At track 3, add Passenger Wagon from West
+At track 8, add Locomotive from East
+At track 6, add Car Transport Wagon from West
+At track 6, add Locomotive from West
+At track 10, remove 4 wagons from West
+At track 3, add Locomotive from East
+At track 7, add Freight Wagon from East
+At track 1, remove 5 wagons from East
+At track 8, add Locomotive from East
+At track 3, add Freight Wagon from East
+At track 6, remove 2 wagons from West
+At track 1, remove 1 wagon from West
+At track 1, add Passenger Wagon from West
+At track 10, add Car Transport Wagon from West
+At track 7, remove 3 wagons from West
+At track 2, add Passenger Wagon from East
+At track 7, add Passenger Wagon from East
+At track 3, add Car Transport Wagon from East
+At track 7, train leaves to East
+At track 4, add Locomotive from West
+At track 3, remove 2 wagons from East
+At track 6, add Freight Wagon from East
+At track 2, remove 1 wagon from East
+At track 3, add Passenger Wagon from East
+At track 6, add Freight Wagon from East
+At track 2, train leaves to West
+At track 3, remove 3 wagons from West
+At track 6, add Car Transport Wagon from East
+At track 8, add Passenger Wagon from West
+At track 2, remove 4 wagons from East
+At track 6, add Passenger Wagon from West
+At track 3, add Passenger Wagon from East
+At track 8, train leaves to East
+At track 8, add Freight Wagon from West
+At track 2, add Locomotive from East
+At track 8, add Passenger Wagon from East
+At track 10, remove 3 wagons from East
+At track 3, add Locomotive from East
+At track 9, remove 3 wagons from East
+At track 8, train leaves to West
+At track 6, add Passenger Wagon from East
+At track 2, add Locomotive from West
+At track 5, add Car Transport Wagon from East
+At track 8, remove 1 wagon from West
+At track 7, add Car Transport Wagon from West
+At track 6, add Locomotive from West
+At track 8, add Locomotive from East
+At track 10, add Passenger Wagon from West
+At track 5, add Car Transport Wagon from West
+At track 3, remove 3 wagons from East
+At track 9, add Passenger Wagon from East
+At track 5, add Car Transport Wagon from East
+At track 8, remove 2 wagons from East
+At track 8, train leaves to West
+At track 1, add Freight Wagon from West
+At track 7, add Passenger Wagon from West
+At track 7, remove 1 wagon from West
+At track 5, add Car Transport Wagon from West
+At track 7, add Passenger Wagon from West
+At track 4, remove 2 wagons from East
+At track 3, add Passenger Wagon from East
+At track 2, train leaves to West
+At track 7, add Car Transport Wagon from West
+At track 2, add Passenger Wagon from East
+At track 1, remove 5 wagons from West
+At track 7, add Car Transport Wagon from West
+At track 4, train leaves to East
+At track 2, add Car Transport Wagon from West
+At track 6, remove 1 wagon from West
+At track 6, remove 1 wagon from West
+At track 7, remove 3 wagons from West
+At track 6, add Locomotive from West
+At track 1, add Locomotive from West
+At track 4, remove 4 wagons from East
+At track 3, add Locomotive from East
+At track 5, add Car Transport Wagon from West
+At track 8, add Freight Wagon from East
+At track 4, add Freight Wagon from East
+At track 5, remove 2 wagons from West
+At track 7, train leaves to East
+At track 9, add Passenger Wagon from East
+At track 4, train leaves to East
+At track 2, add Passenger Wagon from West
+At track 10, train leaves to West
+At track 1, remove 5 wagons from West
+At track 10, add Passenger Wagon from East
+At track 9, add Passenger Wagon from West
+At track 9, add Passenger Wagon from West
+At track 7, remove 3 wagons from West
+At track 7, add Freight Wagon from West
+At track 7, add Locomotive from East
+At track 10, add Car Transport Wagon from West
+At track 4, add Locomotive from West
+At track 4, remove 2 wagons from East
+At track 6, remove 5 wagons from East
+At track 9, remove 1 wagon from East
+At track 4, add Passenger Wagon from West
+At track 9, remove 5 wagons from West
+At track 6, remove 4 wagons from West
+At track 8, add Freight Wagon from East
+At track 8, remove 1 wagon from East
+At track 9, add Locomotive from West
+At track 1, add Passenger Wagon from East
+At track 10, add Freight Wagon from West
+At track 8, train leaves to East
+At track 9, add Freight Wagon from West
+At track 10, train leaves to East
+At track 1, remove 1 wagon from East
+At track 6, add Locomotive from West
+At track 2, remove 2 wagons from East
+At track 10, remove 2 wagons from East
+At track 2, remove 1 wagon from West
+At track 6, add Freight Wagon from East
+At track 5, add Passenger Wagon from East
+At track 9, train leaves to West
+At track 5, remove 2 wagons from East
+At track 1, remove 1 wagon from West
+At track 6, add Locomotive from West
+At track 2, add Freight Wagon from West
+At track 1, add Car Transport Wagon from East
+At track 7, add Passenger Wagon from East
+At track 7, add Locomotive from West
+At track 1, remove 3 wagons from East
+At track 4, add Passenger Wagon from East
+At track 7, add Locomotive from East
+At track 1, add Locomotive from West
+At track 9, add Freight Wagon from West
+At track 5, remove 2 wagons from East
+At track 2, remove 1 wagon from West
+At track 6, add Passenger Wagon from West
+At track 5, remove 5 wagons from East
+At track 9, add Locomotive from West
+At track 2, add Car Transport Wagon from West
+At track 2, add Freight Wagon from West
+At track 9, remove 2 wagons from West
+At track 3, add Freight Wagon from East
+At track 5, remove 5 wagons from East
+At track 2, add Passenger Wagon from West
+At track 10, train leaves to West
+At track 1, train leaves to West
+At track 9, remove 4 wagons from West
+At track 7, add Locomotive from West
+At track 3, remove 1 wagon from West
+At track 4, add Passenger Wagon from West
+At track 5, remove 5 wagons from East
+At track 6, remove 4 wagons from West
+At track 4, add Car Transport Wagon from East
+At track 2, add Car Transport Wagon from West
+At track 4, add Locomotive from East
+At track 10, train leaves to West
+At track 7, add Locomotive from East
+At track 4, remove 5 wagons from East
+At track 7, train leaves to East
+At track 1, add Car Transport Wagon from West
+At track 2, add Passenger Wagon from East
+At track 3, add Car Transport Wagon from West
+At track 8, add Freight Wagon from West
+At track 5, add Locomotive from West
+At track 10, add Car Transport Wagon from East
+At track 4, add Freight Wagon from East
+At track 4, add Passenger Wagon from West
+At track 6, add Locomotive from West
+At track 9, remove 3 wagons from East
+At track 6, remove 2 wagons from West
+At track 7, add Freight Wagon from West
+At track 8, add Locomotive from East
+At track 9, remove 4 wagons from East
+At track 8, add Freight Wagon from East
+At track 1, add Car Transport Wagon from East
+At track 10, add Freight Wagon from West
+At track 10, train leaves to West
+At track 3, add Locomotive from East
+At track 6, remove 4 wagons from West
+At track 5, add Locomotive from East
+At track 1, add Locomotive from West
+At track 3, remove 3 wagons from East
+At track 6, add Freight Wagon from West
+At track 7, add Locomotive from West
+At track 10, train leaves to East
+At track 10, remove 2 wagons from West
+At track 6, remove 2 wagons from East
+At track 1, add Car Transport Wagon from West
+At track 5, add Freight Wagon from West
+At track 6, remove 2 wagons from West
+At track 7, add Passenger Wagon from West
+At track 8, remove 5 wagons from West
+At track 9, add Car Transport Wagon from West
+At track 7, add Car Transport Wagon from East
+At track 7, add Freight Wagon from West
+At track 7, add Freight Wagon from East
+At track 9, remove 4 wagons from West
+At track 6, remove 1 wagon from East
+At track 7, add Passenger Wagon from West
+At track 9, add Car Transport Wagon from West
+At track 6, remove 2 wagons from East
+At track 7, add Car Transport Wagon from West
+At track 8, remove 2 wagons from East
+At track 4, add Freight Wagon from East
+At track 7, add Passenger Wagon from East
+At track 3, remove 1 wagon from West
+At track 7, add Locomotive from East
+At track 8, add Passenger Wagon from East
+At track 5, add Passenger Wagon from West
+At track 10, remove 5 wagons from West
+At track 1, add Passenger Wagon from East
+At track 7, add Locomotive from West
+At track 1, train leaves to East
+At track 10, add Car Transport Wagon from East
+At track 2, add Locomotive from East
+At track 5, remove 1 wagon from East
+At track 6, add Passenger Wagon from West
+At track 8, add Locomotive from East
+At track 9, add Passenger Wagon from East
+At track 10, add Locomotive from West
+At track 2, remove 1 wagon from East
+At track 2, add Passenger Wagon from West
+At track 1, remove 3 wagons from East
+At track 5, remove 4 wagons from East
+At track 5, add Passenger Wagon from East
+At track 9, add Freight Wagon from East
+At track 9, remove 2 wagons from West
+At track 7, add Locomotive from East
+At track 4, add Locomotive from West
+At track 1, remove 5 wagons from West
+At track 5, add Passenger Wagon from East
+At track 1, remove 5 wagons from West
+At track 2, train leaves to East
+At track 1, add Locomotive from East
+At track 7, remove 3 wagons from West
+At track 2, remove 3 wagons from West
+At track 10, add Passenger Wagon from East
+At track 4, add Freight Wagon from West
+At track 2, train leaves to East
+At track 7, remove 3 wagons from West
+At track 7, add Car Transport Wagon from East
+At track 9, add Locomotive from East
+At track 10, add Freight Wagon from West
+At track 3, add Car Transport Wagon from West
+At track 9, train leaves to East
+At track 6, add Passenger Wagon from West
+At track 2, add Car Transport Wagon from West
+At track 2, remove 5 wagons from East
+At track 6, remove 3 wagons from East
+At track 3, remove 2 wagons from East
+At track 9, add Freight Wagon from West
+At track 9, remove 5 wagons from West
+At track 2, add Passenger Wagon from East
+At track 1, train leaves to East
+At track 6, train leaves to East
+At track 1, add Locomotive from East
+At track 4, remove 2 wagons from West
+At track 9, add Car Transport Wagon from East
+At track 7, remove 5 wagons from East
+At track 10, add Locomotive from West
+At track 10, train leaves to West
+At track 8, add Freight Wagon from West
+At track 3, add Car Transport Wagon from West
+At track 7, remove 5 wagons from West
+At track 1, add Freight Wagon from West
+At track 1, add Car Transport Wagon from West
+At track 8, remove 4 wagons from West
+At track 10, train leaves to East
+At track 7, remove 2 wagons from East
+At track 6, add Locomotive from West
+At track 3, remove 1 wagon from West
+At track 1, train leaves to East
+At track 10, add Locomotive from East
+At track 2, add Freight Wagon from East
+At track 2, add Freight Wagon from West
+At track 9, train leaves to West
+At track 6, remove 4 wagons from West
+At track 4, add Locomotive from West
+At track 1, remove 4 wagons from East
+At track 10, train leaves to West
+At track 8, remove 5 wagons from West
+At track 8, remove 5 wagons from East
+At track 10, add Locomotive from West
+At track 1, remove 5 wagons from East
+At track 10, train leaves to West
+At track 10, add Passenger Wagon from West
+At track 10, add Freight Wagon from East
+At track 9, add Freight Wagon from East
+At track 8, remove 2 wagons from East
+At track 7, add Passenger Wagon from East
+At track 10, remove 5 wagons from West
+At track 10, add Locomotive from West
+At track 9, add Locomotive from West
+At track 7, add Locomotive from East
+At track 7, train leaves to East
+At track 8, remove 5 wagons from East
+At track 3, add Freight Wagon from East
+At track 2, add Passenger Wagon from East
+At track 1, add Freight Wagon from East
+At track 2, remove 4 wagons from West
+At track 1, remove 2 wagons from West
+At track 10, remove 3 wagons from West
+At track 6, add Freight Wagon from East
+At track 2, remove 4 wagons from East
+At track 6, add Locomotive from East
+At track 1, add Passenger Wagon from West
+At track 4, add Car Transport Wagon from West
+At track 8, remove 1 wagon from East
+At track 8, add Locomotive from West
+At track 10, train leaves to West
+At track 5, add Freight Wagon from East
+At track 5, add Passenger Wagon from West
+At track 3, add Car Transport Wagon from West
+At track 6, remove 1 wagon from West
+At track 4, remove 4 wagons from East
+At track 1, remove 3 wagons from East
+At track 1, add Car Transport Wagon from West
+At track 7, add Car Transport Wagon from East
+At track 7, add Locomotive from West
+At track 3, remove 5 wagons from East
+At track 5, add Locomotive from West
+At track 7, add Passenger Wagon from West
+At track 3, remove 5 wagons from West
+At track 9, remove 4 wagons from East
+At track 4, remove 5 wagons from East
+At track 5, train leaves to East
+At track 6, add Freight Wagon from East
+At track 5, add Freight Wagon from East
+At track 3, add Car Transport Wagon from East
+At track 1, train leaves to East
+At track 9, add Passenger Wagon from East
+At track 7, add Locomotive from West
+At track 4, add Passenger Wagon from West
+At track 1, remove 5 wagons from East
+At track 1, remove 2 wagons from West
+At track 4, remove 1 wagon from East
+At track 2, remove 4 wagons from West
+At track 1, remove 5 wagons from East
+At track 10, add Freight Wagon from West
+At track 7, remove 4 wagons from West
+At track 9, add Passenger Wagon from West
+At track 4, remove 1 wagon from West
+At track 6, add Locomotive from East
+At track 10, add Locomotive from West
+At track 5, remove 2 wagons from East
+At track 10, add Freight Wagon from East
+At track 8, add Locomotive from East
+At track 10, remove 1 wagon from West
+At track 5, add Locomotive from West
+At track 7, remove 5 wagons from West
+At track 3, remove 5 wagons from East
+At track 6, add Freight Wagon from West
+At track 8, add Car Transport Wagon from West
+At track 8, remove 1 wagon from West
+At track 10, remove 4 wagons from West
+At track 10, add Locomotive from East
+At track 8, remove 1 wagon from East
+At track 1, add Freight Wagon from East
+At track 8, remove 2 wagons from East
+At track 9, add Passenger Wagon from West
+At track 6, add Car Transport Wagon from West
+At track 7, add Car Transport Wagon from East
+At track 4, add Car Transport Wagon from East
+At track 3, remove 2 wagons from West
+At track 5, add Locomotive from East
+At track 8, add Locomotive from East
+At track 9, train leaves to East
+At track 6, add Passenger Wagon from West
+At track 10, remove 5 wagons from West
+At track 7, add Locomotive from East
+At track 10, remove 4 wagons from East
+At track 5, add Freight Wagon from East
+At track 2, remove 4 wagons from East
+At track 9, train leaves to West
+At track 8, add Freight Wagon from West
+At track 6, train leaves to East
+At track 9, add Locomotive from West
+At track 2, add Passenger Wagon from West
+At track 9, add Passenger Wagon from West
+At track 5, train leaves to West
+At track 8, add Locomotive from East
+At track 7, train leaves to West
+At track 7, train leaves to West
+At track 7, remove 5 wagons from West
+At track 10, train leaves to West
+At track 1, remove 2 wagons from East
+At track 6, add Locomotive from East
+At track 3, remove 5 wagons from West
+At track 10, add Car Transport Wagon from East
+At track 1, add Car Transport Wagon from West
+At track 10, add Car Transport Wagon from East
+At track 2, remove 3 wagons from West
+At track 1, remove 5 wagons from West
+At track 6, add Locomotive from East
+At track 2, add Freight Wagon from West
+At track 1, add Car Transport Wagon from East
+At track 5, add Freight Wagon from West
+At track 1, train leaves to East
+At track 1, train leaves to West
+At track 8, remove 1 wagon from West
+At track 1, remove 4 wagons from East
+At track 3, remove 2 wagons from West
+At track 9, add Freight Wagon from East
+At track 1, add Passenger Wagon from East
+At track 9, remove 5 wagons from West
+At track 5, add Locomotive from West
+At track 2, add Car Transport Wagon from West
+At track 4, add Car Transport Wagon from East
+At track 9, add Car Transport Wagon from West
+At track 3, add Passenger Wagon from West
+At track 6, add Freight Wagon from West
+At track 7, add Car Transport Wagon from East
+At track 10, add Car Transport Wagon from West
+At track 9, train leaves to West
+At track 4, add Car Transport Wagon from East
+At track 6, add Freight Wagon from West
+At track 3, remove 5 wagons from East
+At track 3, add Freight Wagon from West
+At track 10, add Passenger Wagon from West
+At track 6, add Car Transport Wagon from West
+At track 2, add Car Transport Wagon from West
+At track 6, add Passenger Wagon from East
+At track 7, add Freight Wagon from East
+At track 7, add Freight Wagon from West
+At track 10, add Car Transport Wagon from East
+At track 8, add Car Transport Wagon from West
+At track 8, remove 4 wagons from West
+At track 10, remove 4 wagons from West
+At track 5, add Freight Wagon from East
+At track 10, remove 4 wagons from East
+At track 3, train leaves to East
+At track 5, add Freight Wagon from East
+At track 1, train leaves to East
+At track 2, train leaves to East
+At track 10, train leaves to West
+At track 2, add Locomotive from West
+At track 6, remove 4 wagons from East
+At track 10, add Locomotive from West
+At track 6, add Freight Wagon from West
+At track 8, train leaves to West
+At track 7, add Car Transport Wagon from West
+At track 7, remove 3 wagons from East
+At track 5, add Car Transport Wagon from West
+At track 3, remove 5 wagons from East
+At track 10, add Car Transport Wagon from East
+At track 7, add Freight Wagon from East
+At track 7, add Passenger Wagon from East
+At track 3, remove 5 wagons from East
+At track 7, add Locomotive from East
+At track 1, add Locomotive from West
+At track 1, add Car Transport Wagon from West
+At track 7, remove 2 wagons from West
+At track 2, remove 3 wagons from West
+At track 9, add Freight Wagon from East
+At track 6, add Freight Wagon from East
+At track 9, add Locomotive from East
+At track 9, add Locomotive from West
+At track 3, add Passenger Wagon from West
+At track 8, add Passenger Wagon from East
+At track 2, train leaves to West
+At track 4, add Car Transport Wagon from East
+At track 3, remove 1 wagon from East
+At track 5, add Freight Wagon from West
+At track 10, add Passenger Wagon from East
+At track 5, remove 1 wagon from West
+At track 4, add Locomotive from East
+At track 3, add Freight Wagon from East
+At track 8, remove 1 wagon from West
+At track 10, add Locomotive from West
+At track 1, add Car Transport Wagon from West
+At track 4, add Locomotive from East
+At track 4, remove 1 wagon from West
+At track 1, add Locomotive from West
+At track 9, add Locomotive from West
+At track 3, remove 2 wagons from East
+At track 6, add Freight Wagon from East
+At track 10, remove 5 wagons from West
+At track 10, add Locomotive from West
+At track 4, add Locomotive from West
+At track 6, add Car Transport Wagon from West
+At track 6, add Car Transport Wagon from East
+At track 5, remove 5 wagons from West
+At track 10, add Passenger Wagon from East
+At track 1, remove 1 wagon from East
+At track 4, remove 5 wagons from West
+At track 1, add Locomotive from East
+At track 9, add Locomotive from West
+At track 4, add Locomotive from West
+At track 7, remove 1 wagon from East
+At track 6, train leaves to West
+At track 8, remove 2 wagons from West
+At track 2, add Locomotive from West
+At track 4, add Freight Wagon from East
+At track 3, add Locomotive from West
+At track 1, add Car Transport Wagon from East
+At track 7, add Passenger Wagon from East
+At track 7, train leaves to East
+At track 8, add Locomotive from West
+At track 4, remove 1 wagon from East
+At track 6, add Locomotive from East
+At track 7, remove 1 wagon from East
+At track 4, add Passenger Wagon from West
+At track 2, remove 3 wagons from East
+At track 8, remove 2 wagons from East
+At track 8, add Locomotive from West
+At track 10, remove 3 wagons from West
+At track 9, add Freight Wagon from West
+At track 1, remove 2 wagons from East
+At track 8, add Passenger Wagon from West
+At track 10, add Passenger Wagon from East
+At track 8, remove 3 wagons from West
+At track 8, add Passenger Wagon from West
+At track 8, remove 2 wagons from West
+At track 10, remove 4 wagons from East
+At track 2, remove 3 wagons from West
+At track 3, add Freight Wagon from West
+At track 2, train leaves to East
+At track 9, add Car Transport Wagon from West
+At track 10, add Freight Wagon from East
+At track 9, remove 3 wagons from East
+At track 2, remove 2 wagons from West
+At track 8, add Locomotive from East
+At track 1, add Freight Wagon from West
+At track 2, add Locomotive from West
+At track 3, add Freight Wagon from East
+At track 3, train leaves to East
+At track 7, add Passenger Wagon from East
+At track 4, remove 5 wagons from West
+At track 10, remove 5 wagons from West
+At track 8, add Passenger Wagon from East
+At track 1, add Passenger Wagon from East
+At track 1, add Freight Wagon from East
+At track 6, add Freight Wagon from East
+At track 5, remove 1 wagon from East
+At track 5, add Freight Wagon from West
+At track 4, add Freight Wagon from West
+At track 1, add Freight Wagon from West
+At track 1, add Car Transport Wagon from West
+At track 9, add Locomotive from East
+At track 2, remove 2 wagons from West
+At track 10, remove 4 wagons from East
+At track 10, add Locomotive from East
+At track 8, remove 5 wagons from East
+At track 8, remove 2 wagons from East
+At track 1, add Freight Wagon from East
+At track 5, add Freight Wagon from East
+At track 7, add Car Transport Wagon from West
+At track 3, add Car Transport Wagon from West
+At track 8, train leaves to West
+At track 9, add Passenger Wagon from East
+At track 8, train leaves to East
+At track 6, train leaves to East
+At track 1, add Car Transport Wagon from East
+At track 3, remove 5 wagons from East
+At track 1, add Freight Wagon from West
+At track 3, add Freight Wagon from East
+At track 6, add Freight Wagon from West
+At track 4, remove 5 wagons from East
+At track 6, add Locomotive from West
+At track 3, add Freight Wagon from East
+At track 2, add Car Transport Wagon from West
+At track 5, remove 2 wagons from West
+At track 2, add Locomotive from East
+At track 5, add Freight Wagon from West
+At track 10, add Passenger Wagon from East
+At track 2, remove 5 wagons from West
+At track 7, add Locomotive from East
+At track 5, add Passenger Wagon from West
+At track 9, add Car Transport Wagon from East
+At track 8, add Locomotive from West
+At track 9, add Car Transport Wagon from West
+At track 7, add Passenger Wagon from East
+At track 4, remove 5 wagons from West
+At track 9, remove 2 wagons from West
+At track 8, remove 5 wagons from West
+At track 3, add Passenger Wagon from East
+At track 7, add Passenger Wagon from East
+At track 4, add Car Transport Wagon from East
+At track 7, add Locomotive from West
+At track 10, train leaves to East
+At track 7, train leaves to East
+At track 1, add Locomotive from East
+At track 1, remove 3 wagons from West
+At track 5, remove 4 wagons from West
+At track 4, add Passenger Wagon from East
+At track 7, add Passenger Wagon from East
+At track 5, add Passenger Wagon from East
+At track 8, train leaves to East
+At track 7, remove 3 wagons from West
+At track 10, add Passenger Wagon from East
+At track 9, add Locomotive from West
+At track 2, remove 5 wagons from West
+At track 10, add Passenger Wagon from West
+At track 9, add Freight Wagon from West
+At track 10, add Locomotive from East
+At track 7, remove 3 wagons from West
+At track 6, remove 3 wagons from East
+At track 8, remove 1 wagon from East
+At track 9, train leaves to East
+At track 4, add Freight Wagon from East
+At track 3, add Freight Wagon from West
+At track 10, remove 5 wagons from East
+At track 3, add Locomotive from East
+At track 3, add Locomotive from West
+At track 1, remove 2 wagons from East
+At track 10, remove 4 wagons from East
+At track 9, add Locomotive from West
+At track 5, train leaves to West
+At track 3, add Passenger Wagon from West
+At track 6, add Car Transport Wagon from West
+At track 5, add Car Transport Wagon from West
+At track 2, remove 4 wagons from East
+At track 4, add Locomotive from East
+At track 4, add Car Transport Wagon from East
+At track 3, add Locomotive from East
+At track 10, add Passenger Wagon from West
+At track 4, remove 2 wagons from East
+At track 1, train leaves to East
+At track 10, remove 2 wagons from West
+At track 6, add Passenger Wagon from East
+At track 6, add Car Transport Wagon from East
+At track 1, add Passenger Wagon from West
+At track 4, add Locomotive from East
+At track 5, add Freight Wagon from West
+At track 4, remove 3 wagons from West
+At track 7, add Car Transport Wagon from East
+At track 4, add Passenger Wagon from West
+At track 2, add Passenger Wagon from West
+At track 10, remove 5 wagons from East
+At track 10, remove 4 wagons from West
+At track 6, add Locomotive from East
+At track 10, add Locomotive from West
+At track 1, add Passenger Wagon from West
+At track 4, train leaves to East
+At track 2, add Freight Wagon from West
+At track 4, remove 2 wagons from East
+At track 8, remove 3 wagons from East
+At track 2, remove 4 wagons from East
+At track 9, add Locomotive from West
+At track 10, add Freight Wagon from West
+At track 4, train leaves to West
+At track 5, remove 4 wagons from East
+At track 3, add Locomotive from East
+At track 8, add Locomotive from East
+At track 9, remove 5 wagons from East
+At track 5, remove 2 wagons from West
+At track 4, add Passenger Wagon from East
+At track 2, add Car Transport Wagon from West
+At track 10, add Passenger Wagon from East
+At track 5, train leaves to West
+At track 2, add Locomotive from East
+At track 10, remove 1 wagon from East
+At track 6, train leaves to West
+At track 2, add Passenger Wagon from West
+At track 6, add Freight Wagon from East
+At track 4, add Freight Wagon from West
+At track 10, add Car Transport Wagon from West
+At track 10, add Freight Wagon from East
+At track 1, add Car Transport Wagon from East
+At track 1, add Locomotive from East
+At track 2, remove 1 wagon from East
+At track 8, add Passenger Wagon from East
+At track 6, remove 4 wagons from West
+At track 8, remove 3 wagons from West
+At track 3, add Car Transport Wagon from West
+At track 10, add Freight Wagon from West
+At track 2, add Freight Wagon from West
+At track 6, remove 3 wagons from West
+At track 1, add Freight Wagon from West
+At track 2, add Freight Wagon from East
+At track 9, remove 3 wagons from East
+At track 4, remove 1 wagon from East
+At track 2, add Freight Wagon from West
+At track 6, remove 1 wagon from West
+At track 7, add Locomotive from East
+At track 5, add Car Transport Wagon from East
+At track 3, remove 5 wagons from East
+At track 3, remove 2 wagons from West
+At track 9, add Freight Wagon from West
+At track 4, train leaves to East
+At track 8, remove 1 wagon from East
+At track 10, add Locomotive from West
+At track 10, remove 4 wagons from East
+At track 3, add Freight Wagon from East
+At track 1, add Passenger Wagon from West
+At track 5, add Car Transport Wagon from West
+At track 7, add Freight Wagon from East
+At track 7, add Locomotive from East
+At track 4, add Freight Wagon from East
+At track 4, remove 4 wagons from West
+At track 4, add Locomotive from East
+At track 1, add Passenger Wagon from West
+At track 4, add Passenger Wagon from West
+At track 9, add Car Transport Wagon from East
+At track 5, add Passenger Wagon from East
+At track 9, train leaves to West
+At track 3, remove 3 wagons from West
+At track 7, train leaves to East
+At track 8, remove 2 wagons from West
+At track 5, remove 2 wagons from East
+At track 9, remove 1 wagon from West
+At track 9, add Freight Wagon from West
+At track 9, add Car Transport Wagon from East
+At track 4, train leaves to East
+At track 9, add Locomotive from East
+At track 7, add Freight Wagon from East
+At track 3, add Passenger Wagon from East
+At track 5, add Car Transport Wagon from West
+At track 7, add Car Transport Wagon from West
+At track 1, train leaves to East
+At track 4, remove 4 wagons from West
+At track 3, add Freight Wagon from East
+At track 1, remove 1 wagon from West
+At track 6, add Locomotive from West
+At track 5, remove 2 wagons from West
+At track 4, remove 3 wagons from East
+At track 10, add Locomotive from East
+At track 5, add Freight Wagon from West
+At track 7, add Locomotive from West
+At track 9, add Locomotive from East
+At track 5, add Car Transport Wagon from West
+At track 5, add Car Transport Wagon from West
+At track 3, add Locomotive from West
+At track 8, remove 2 wagons from West
+At track 8, add Freight Wagon from West
+At track 4, remove 2 wagons from East
+At track 1, add Freight Wagon from West
+At track 9, add Freight Wagon from East
+At track 2, add Freight Wagon from East
+At track 10, add Freight Wagon from East
+At track 3, remove 3 wagons from West
+At track 9, remove 1 wagon from West
+At track 5, add Locomotive from East
+At track 8, add Freight Wagon from West
+At track 7, add Locomotive from West
+At track 9, add Passenger Wagon from East
+At track 7, remove 1 wagon from East
+At track 1, train leaves to East
+At track 8, remove 3 wagons from East
+At track 6, remove 3 wagons from East
+At track 8, add Locomotive from West
+At track 1, remove 4 wagons from East
+At track 7, add Freight Wagon from East
+At track 6, add Freight Wagon from East
+At track 2, add Locomotive from East
+At track 9, remove 4 wagons from East
+At track 6, add Passenger Wagon from West
+At track 4, add Freight Wagon from West
+At track 5, add Freight Wagon from East
+At track 3, remove 3 wagons from East
+At track 2, remove 1 wagon from East
+At track 4, add Passenger Wagon from West
+At track 1, add Freight Wagon from West
+At track 9, remove 4 wagons from West
+At track 4, add Car Transport Wagon from West
+At track 3, add Locomotive from West
+At track 10, remove 2 wagons from East
+At track 5, add Freight Wagon from West
+At track 5, add Car Transport Wagon from West
+At track 2, remove 3 wagons from West
+At track 10, add Freight Wagon from East
+At track 1, remove 3 wagons from East
+At track 9, remove 2 wagons from West
+At track 4, add Freight Wagon from East
+At track 3, remove 3 wagons from West
+At track 5, add Locomotive from East
+At track 5, add Freight Wagon from West
+At track 10, remove 5 wagons from East
+At track 5, add Passenger Wagon from West
+At track 5, add Car Transport Wagon from West
+At track 3, remove 5 wagons from West
+At track 9, remove 1 wagon from East
+At track 7, train leaves to East
+At track 7, add Locomotive from West
+At track 9, add Car Transport Wagon from West
+At track 9, add Freight Wagon from East
+At track 10, add Locomotive from West
+At track 6, add Car Transport Wagon from East
+At track 4, remove 2 wagons from West
+At track 10, train leaves to East
+At track 4, add Car Transport Wagon from West
+At track 9, add Freight Wagon from West
+At track 4, add Locomotive from West
+At track 2, remove 1 wagon from West
+At track 4, add Passenger Wagon from East
+At track 2, add Locomotive from West
+At track 9, remove 1 wagon from West
+At track 2, add Passenger Wagon from West
+At track 10, add Car Transport Wagon from West
+At track 6, add Locomotive from East
+At track 5, add Passenger Wagon from East
+At track 5, remove 3 wagons from West
+At track 4, remove 5 wagons from East
+At track 3, add Freight Wagon from West
+At track 6, remove 2 wagons from West
+At track 6, remove 4 wagons from East
+At track 10, remove 5 wagons from East
+At track 4, add Freight Wagon from East
+At track 1, add Freight Wagon from West
+At track 1, add Locomotive from West
+At track 10, train leaves to East
+At track 8, add Freight Wagon from East
+At track 10, remove 3 wagons from East
+At track 4, remove 4 wagons from West
+At track 9, remove 4 wagons from West
+At track 2, add Passenger Wagon from West
+At track 4, add Freight Wagon from West
+At track 9, remove 3 wagons from East
+At track 10, add Passenger Wagon from West
+At track 9, remove 2 wagons from East
+At track 6, add Car Transport Wagon from East
+At track 8, remove 1 wagon from East
+At track 4, add Passenger Wagon from West
+At track 8, remove 1 wagon from West
+At track 7, train leaves to East
+At track 3, remove 1 wagon from West
+At track 4, remove 4 wagons from West
+At track 6, add Car Transport Wagon from West
+At track 5, add Locomotive from West
+At track 5, add Locomotive from West
+At track 7, train leaves to West
+At track 4, add Passenger Wagon from East
+At track 10, remove 2 wagons from West
+At track 1, add Freight Wagon from West
+At track 10, add Freight Wagon from East
+At track 9, remove 2 wagons from West
+At track 2, add Freight Wagon from West
+At track 10, remove 4 wagons from West
+At track 5, remove 5 wagons from East
+At track 6, add Passenger Wagon from East
+At track 5, train leaves to West
+At track 2, add Freight Wagon from West
+At track 4, remove 4 wagons from East
+At track 9, add Freight Wagon from West
+At track 2, remove 3 wagons from East
+At track 8, add Car Transport Wagon from West
+At track 2, remove 3 wagons from East
+At track 4, add Freight Wagon from West
+At track 3, add Locomotive from East
+At track 4, add Passenger Wagon from West
+At track 10, add Freight Wagon from East
+At track 4, add Freight Wagon from West
+At track 6, remove 3 wagons from West
+At track 5, add Passenger Wagon from East
+At track 9, add Freight Wagon from East
+At track 3, add Car Transport Wagon from East
+At track 1, add Car Transport Wagon from West
+At track 5, add Passenger Wagon from East
+At track 9, remove 3 wagons from East
+At track 3, remove 1 wagon from East
+At track 4, add Locomotive from West
+At track 3, remove 3 wagons from West
+At track 6, add Locomotive from East
+At track 3, add Car Transport Wagon from West
+At track 4, remove 2 wagons from East
+At track 7, add Passenger Wagon from East
+At track 7, add Car Transport Wagon from East
+At track 3, add Passenger Wagon from West
+At track 6, train leaves to East
+At track 5, add Passenger Wagon from West
+At track 6, remove 2 wagons from West
+At track 6, train leaves to East
+At track 7, add Freight Wagon from East
+At track 10, add Passenger Wagon from East
+At track 9, remove 4 wagons from East
+At track 3, add Car Transport Wagon from East
+At track 6, remove 4 wagons from East
+At track 9, add Locomotive from East
+At track 5, add Locomotive from West
+At track 4, remove 1 wagon from East
+At track 10, add Car Transport Wagon from West
+At track 8, add Passenger Wagon from West
+At track 1, add Car Transport Wagon from East
+At track 8, add Locomotive from East
+At track 7, add Passenger Wagon from East
+At track 10, add Locomotive from East
+At track 10, add Car Transport Wagon from West
+At track 3, add Passenger Wagon from East
+At track 1, remove 3 wagons from East
+At track 4, remove 4 wagons from East
+At track 6, add Locomotive from East
+At track 2, add Passenger Wagon from West
+At track 7, remove 2 wagons from West
+At track 4, add Passenger Wagon from East
+At track 10, add Freight Wagon from East
+At track 9, remove 3 wagons from East
+At track 6, add Freight Wagon from East
+At track 1, add Passenger Wagon from West
+At track 10, add Car Transport Wagon from East
+At track 4, remove 2 wagons from West
+At track 9, train leaves to West
+At track 5, add Passenger Wagon from East
+At track 10, add Passenger Wagon from West
+At track 8, add Car Transport Wagon from East
+At track 6, add Car Transport Wagon from East
+At track 2, train leaves to West
+At track 8, add Car Transport Wagon from West
+At track 5, remove 4 wagons from West
+At track 5, add Freight Wagon from West
+At track 7, train leaves to West
+At track 5, add Locomotive from West
+At track 4, remove 2 wagons from West
+At track 9, add Freight Wagon from East
+At track 8, add Locomotive from West
+At track 10, remove 5 wagons from West
+At track 7, add Passenger Wagon from East
+At track 5, remove 4 wagons from West
+At track 2, add Passenger Wagon from East
+At track 10, add Freight Wagon from East
+At track 5, add Car Transport Wagon from East
+At track 10, train leaves to West
+At track 6, add Freight Wagon from East
+At track 10, add Freight Wagon from East
+At track 4, add Locomotive from East
+At track 9, remove 2 wagons from West
+At track 6, remove 5 wagons from West
+At track 5, add Freight Wagon from East
+At track 3, add Locomotive from East
+At track 5, add Locomotive from West
+At track 5, remove 5 wagons from West
+At track 9, add Passenger Wagon from East
+At track 5, add Passenger Wagon from East
+At track 2, train leaves to West
+At track 7, add Freight Wagon from West
+At track 4, remove 4 wagons from West
+At track 8, add Passenger Wagon from East
+At track 3, add Locomotive from East
+At track 5, add Car Transport Wagon from West
+At track 1, remove 3 wagons from East
+At track 1, train leaves to West
+At track 1, remove 5 wagons from East
+At track 6, add Car Transport Wagon from West
+At track 10, remove 2 wagons from East
+At track 10, add Car Transport Wagon from West
+At track 3, add Car Transport Wagon from West
+At track 3, add Freight Wagon from West
+At track 9, add Locomotive from West
+At track 7, remove 2 wagons from East
+At track 10, add Locomotive from East
+At track 6, add Locomotive from West
+At track 7, train leaves to West
+At track 9, add Locomotive from East
+At track 3, add Locomotive from West
+At track 3, add Passenger Wagon from East
+At track 5, remove 4 wagons from West
+At track 9, add Car Transport Wagon from West
+At track 8, add Car Transport Wagon from East
+At track 6, train leaves to West
+At track 2, add Car Transport Wagon from East
+At track 5, remove 2 wagons from West
+At track 9, add Freight Wagon from West
+At track 6, add Car Transport Wagon from East
+At track 4, add Freight Wagon from West
+At track 6, add Car Transport Wagon from West
+At track 5, remove 5 wagons from West
+At track 10, train leaves to East
+At track 5, add Locomotive from East
+At track 2, remove 5 wagons from West
+At track 10, train leaves to East
+At track 6, remove 1 wagon from East
+At track 6, add Car Transport Wagon from East
+At track 7, add Freight Wagon from West
+At track 3, train leaves to East
+At track 6, remove 4 wagons from East
+At track 3, add Car Transport Wagon from East
+At track 5, add Locomotive from West
+At track 9, add Passenger Wagon from West
+At track 8, add Freight Wagon from West
+At track 10, add Passenger Wagon from East
+At track 4, remove 4 wagons from East
+At track 4, add Locomotive from West
+At track 1, add Locomotive from West
+At track 2, remove 5 wagons from East
+At track 7, add Passenger Wagon from West
+At track 9, add Locomotive from East
+At track 5, remove 4 wagons from West
+At track 4, add Car Transport Wagon from East
+At track 3, remove 1 wagon from East
+At track 7, add Freight Wagon from West
+At track 8, remove 5 wagons from East
+At track 9, add Locomotive from East
+At track 6, add Locomotive from East
+At track 10, add Freight Wagon from West
+At track 9, remove 1 wagon from East
+At track 2, add Freight Wagon from East
+At track 10, add Locomotive from West
+At track 6, add Passenger Wagon from East
+At track 2, train leaves to West
+At track 2, remove 5 wagons from East
+At track 2, remove 3 wagons from West
+At track 6, remove 3 wagons from East
+At track 2, add Locomotive from East
+At track 9, add Locomotive from West
+At track 3, add Freight Wagon from West
+At track 10, add Car Transport Wagon from West
+At track 6, train leaves to West
+At track 5, add Car Transport Wagon from West
+At track 6, add Freight Wagon from West
+At track 2, remove 1 wagon from West
+At track 2, add Freight Wagon from East
+At track 8, add Passenger Wagon from East
+At track 4, add Car Transport Wagon from East
+At track 10, remove 2 wagons from East
+At track 7, add Freight Wagon from West
+At track 6, remove 4 wagons from East
+At track 8, add Passenger Wagon from West
+At track 1, add Freight Wagon from East
+At track 3, remove 3 wagons from West
+At track 5, add Freight Wagon from West
+At track 6, train leaves to East
+At track 8, add Freight Wagon from East
+At track 4, add Freight Wagon from East
+At track 1, add Car Transport Wagon from East
+At track 3, add Freight Wagon from West
+At track 7, remove 3 wagons from East
+At track 7, remove 5 wagons from West
+At track 9, add Locomotive from East
+At track 8, train leaves to East
+At track 4, add Car Transport Wagon from East
+At track 9, add Locomotive from West
+At track 4, remove 2 wagons from East
+At track 2, remove 2 wagons from West
+At track 1, train leaves to West
+At track 1, add Passenger Wagon from East
+At track 5, add Freight Wagon from West
+At track 10, add Locomotive from West
+At track 3, add Car Transport Wagon from East
+At track 7, add Locomotive from East
+At track 2, add Car Transport Wagon from East
+At track 9, add Passenger Wagon from West
+At track 3, add Passenger Wagon from West
+At track 10, add Freight Wagon from East
+At track 3, add Freight Wagon from West
+At track 4, remove 2 wagons from West
+At track 8, add Freight Wagon from East
+At track 3, add Passenger Wagon from West
+At track 10, add Passenger Wagon from West
+At track 2, add Freight Wagon from West
+At track 9, remove 5 wagons from East
+At track 7, remove 2 wagons from East
+At track 8, remove 5 wagons from East
+At track 3, remove 3 wagons from West
+At track 1, remove 3 wagons from West
+At track 10, remove 4 wagons from East
+At track 7, add Locomotive from East
+At track 9, train leaves to East
+At track 3, train leaves to East
+At track 2, remove 3 wagons from West
+At track 6, train leaves to West
+At track 3, add Locomotive from West
+At track 4, remove 4 wagons from West
+At track 5, add Passenger Wagon from West
+At track 5, add Locomotive from East
+At track 1, add Passenger Wagon from West
+At track 10, add Freight Wagon from East
+At track 1, add Car Transport Wagon from East
+At track 4, add Locomotive from West
+At track 3, add Car Transport Wagon from West
+At track 4, add Freight Wagon from East
+At track 10, remove 3 wagons from East
+At track 6, remove 3 wagons from West
+At track 6, add Passenger Wagon from East
+At track 3, add Locomotive from West
+At track 2, add Locomotive from West
+At track 3, train leaves to East
+At track 5, remove 4 wagons from East
+At track 10, add Freight Wagon from East
+At track 8, add Freight Wagon from West
+At track 8, add Passenger Wagon from West
+At track 8, add Locomotive from East
+At track 8, add Locomotive from West
+At track 6, remove 2 wagons from East
+At track 8, add Passenger Wagon from East
+At track 4, remove 5 wagons from West
+At track 5, remove 4 wagons from West
+At track 7, remove 3 wagons from East
+At track 3, add Car Transport Wagon from East
+At track 5, add Car Transport Wagon from West
+At track 7, remove 1 wagon from East
+At track 5, add Freight Wagon from West
+At track 6, add Car Transport Wagon from West
+At track 2, add Passenger Wagon from East
+At track 10, add Freight Wagon from East
+At track 8, add Car Transport Wagon from East
+At track 5, add Car Transport Wagon from West
+At track 6, add Locomotive from West
+At track 8, add Freight Wagon from West
+At track 3, remove 2 wagons from East
+At track 3, train leaves to West
+At track 9, add Locomotive from East
+At track 8, remove 2 wagons from West
+At track 9, add Locomotive from East
+At track 10, remove 5 wagons from West
+At track 5, add Car Transport Wagon from East
+At track 7, train leaves to West
+At track 6, add Car Transport Wagon from West
+At track 3, add Passenger Wagon from East
+At track 2, add Locomotive from East
+At track 5, add Passenger Wagon from West
+At track 2, remove 4 wagons from West
+At track 9, add Car Transport Wagon from West
+At track 8, add Freight Wagon from East
+At track 9, remove 5 wagons from East
+At track 4, remove 2 wagons from West
+At track 1, add Car Transport Wagon from East
+At track 2, add Freight Wagon from West
+At track 7, train leaves to East
+At track 6, add Car Transport Wagon from East
+At track 1, add Passenger Wagon from West
+At track 8, add Locomotive from West
+At track 5, add Freight Wagon from West
+At track 8, add Freight Wagon from East
+At track 2, remove 2 wagons from East
+At track 3, add Locomotive from East
+At track 2, add Locomotive from East
+At track 9, add Car Transport Wagon from East
+At track 9, remove 2 wagons from East
+At track 5, add Freight Wagon from East
+At track 7, add Locomotive from West
+At track 1, remove 5 wagons from West
+At track 5, remove 3 wagons from West
+At track 2, add Locomotive from West
+At track 10, remove 4 wagons from East
+At track 3, remove 3 wagons from West
+At track 8, add Locomotive from West
+At track 4, add Passenger Wagon from East
+At track 3, add Locomotive from West
+At track 7, add Passenger Wagon from West
+At track 10, add Locomotive from East
+At track 4, remove 3 wagons from West
+At track 8, remove 3 wagons from West
+At track 5, remove 1 wagon from East
+At track 4, add Car Transport Wagon from East
+At track 3, add Car Transport Wagon from East
+At track 3, add Car Transport Wagon from East
+At track 2, remove 4 wagons from West
+At track 8, add Car Transport Wagon from East
+At track 2, remove 3 wagons from East
+At track 4, add Freight Wagon from West
+At track 4, add Car Transport Wagon from West
+At track 9, add Car Transport Wagon from West
+At track 2, add Freight Wagon from East
+At track 1, add Car Transport Wagon from West
+At track 1, train leaves to East
+At track 8, add Car Transport Wagon from West
+At track 7, remove 5 wagons from East
+At track 3, remove 2 wagons from West
+At track 2, train leaves to East
+At track 2, remove 5 wagons from West
+At track 10, add Car Transport Wagon from East
+At track 4, add Passenger Wagon from West
+At track 1, remove 5 wagons from West
+At track 10, add Locomotive from West
+At track 3, add Locomotive from West
+At track 5, remove 2 wagons from East
+At track 4, add Freight Wagon from West
+At track 9, add Freight Wagon from East
+At track 9, add Freight Wagon from West
+At track 8, add Passenger Wagon from East
+At track 7, add Locomotive from West
+At track 4, remove 1 wagon from East
+At track 5, add Car Transport Wagon from West
+At track 8, remove 5 wagons from East
+At track 10, remove 2 wagons from West
+At track 5, remove 2 wagons from West
+At track 3, add Freight Wagon from East
+At track 8, remove 4 wagons from West
+At track 3, add Freight Wagon from East
+At track 4, train leaves to East
+At track 8, remove 2 wagons from East
+At track 7, add Passenger Wagon from East
+At track 6, add Passenger Wagon from West
+At track 8, remove 2 wagons from East
+At track 7, add Freight Wagon from West
+At track 8, add Passenger Wagon from East
+At track 8, add Freight Wagon from East
+At track 2, add Passenger Wagon from East
+At track 10, remove 1 wagon from West
+At track 9, add Passenger Wagon from West
+At track 6, add Freight Wagon from East
+At track 6, remove 5 wagons from East
+At track 8, remove 5 wagons from East
+At track 7, add Freight Wagon from East
+At track 5, add Car Transport Wagon from East
+At track 3, train leaves to West
+At track 1, add Locomotive from East
+At track 10, remove 3 wagons from East
+At track 1, add Passenger Wagon from West
+At track 10, add Locomotive from East
+At track 4, remove 2 wagons from West
+At track 9, add Locomotive from East
+At track 6, remove 4 wagons from East
+At track 8, add Car Transport Wagon from East
+At track 3, add Locomotive from East
+At track 8, add Locomotive from East
+At track 4, remove 1 wagon from East
+At track 2, remove 3 wagons from East
+At track 10, add Freight Wagon from West
+At track 8, add Freight Wagon from East
+At track 1, add Freight Wagon from East
+At track 7, train leaves to East
+At track 3, add Locomotive from East
+At track 4, remove 5 wagons from West
+At track 1, add Freight Wagon from West
+At track 9, add Freight Wagon from East
+At track 8, add Locomotive from West
+At track 7, remove 5 wagons from West
+At track 8, remove 4 wagons from West
+At track 7, add Locomotive from East
+At track 10, add Freight Wagon from West
+At track 6, add Passenger Wagon from East
+At track 6, add Locomotive from West
+At track 9, add Locomotive from West
+At track 2, remove 4 wagons from East
+At track 3, add Passenger Wagon from West
+At track 1, add Freight Wagon from West
+At track 2, train leaves to East
+At track 2, add Passenger Wagon from East
+At track 2, train leaves to West
+At track 1, add Locomotive from West
+At track 8, add Passenger Wagon from East
+At track 8, add Passenger Wagon from East
+At track 5, add Locomotive from West
+At track 2, train leaves to East
+At track 9, train leaves to West
+At track 5, remove 1 wagon from West
+At track 2, train leaves to West
+At track 8, remove 4 wagons from East
+At track 9, remove 4 wagons from East
+At track 7, add Freight Wagon from East
+At track 8, train leaves to West
+At track 5, remove 2 wagons from East
+At track 5, add Car Transport Wagon from East
+At track 6, remove 1 wagon from West
+At track 7, remove 4 wagons from West
+At track 8, remove 2 wagons from West
+At track 10, remove 4 wagons from West
+At track 2, add Passenger Wagon from West
+At track 1, remove 1 wagon from West
+At track 6, remove 2 wagons from West
+At track 2, add Passenger Wagon from East
+At track 9, remove 2 wagons from East
+At track 10, add Locomotive from East
+At track 3, add Freight Wagon from East
+At track 5, add Car Transport Wagon from East
+At track 7, add Car Transport Wagon from West
+At track 8, add Locomotive from West
+At track 4, add Car Transport Wagon from West
+At track 6, add Passenger Wagon from East
+At track 3, add Car Transport Wagon from East
+At track 8, train leaves to West
+At track 6, remove 3 wagons from West
+At track 3, train leaves to East
+At track 6, add Passenger Wagon from East
+At track 2, remove 4 wagons from West
+At track 8, add Freight Wagon from West
+At track 8, add Locomotive from East
+At track 6, train leaves to East
+At track 4, remove 4 wagons from West
+At track 4, remove 4 wagons from West
+At track 5, add Car Transport Wagon from West
+At track 9, add Freight Wagon from East
+At track 9, add Locomotive from East
+At track 5, remove 3 wagons from West
+At track 7, add Freight Wagon from East
+At track 5, add Passenger Wagon from East
+At track 7, add Car Transport Wagon from East
+At track 8, add Locomotive from West
+At track 2, add Car Transport Wagon from East
+At track 7, remove 1 wagon from East
+At track 9, remove 4 wagons from West
+At track 7, remove 2 wagons from West
+At track 7, add Freight Wagon from East
+At track 10, add Freight Wagon from West
+At track 1, remove 3 wagons from West
+At track 1, add Locomotive from East
+At track 3, remove 1 wagon from West
+At track 8, remove 3 wagons from East
+At track 9, remove 1 wagon from West
+At track 9, add Locomotive from East
+At track 6, train leaves to East
+At track 7, add Car Transport Wagon from West
+At track 9, add Car Transport Wagon from West
+At track 1, remove 2 wagons from East
+At track 1, remove 4 wagons from West
+At track 10, add Freight Wagon from East
+At track 4, add Passenger Wagon from East
+At track 2, add Car Transport Wagon from East
+At track 6, add Car Transport Wagon from East
+At track 9, remove 5 wagons from West
+At track 5, train leaves to West
+At track 6, remove 1 wagon from East
+At track 9, add Car Transport Wagon from West
+At track 8, remove 5 wagons from West
+At track 8, add Locomotive from West
+At track 9, remove 4 wagons from West
+At track 8, add Passenger Wagon from East
+At track 4, add Freight Wagon from West
+At track 7, add Locomotive from West
+At track 8, add Freight Wagon from East
+At track 1, add Passenger Wagon from West
+At track 6, train leaves to West
+At track 4, add Locomotive from West
+At track 6, add Passenger Wagon from West
+At track 5, add Passenger Wagon from East
+At track 2, add Locomotive from West
+At track 5, remove 2 wagons from East
+At track 3, add Car Transport Wagon from West
+At track 3, add Car Transport Wagon from West
+At track 10, remove 4 wagons from West
+At track 9, remove 2 wagons from West
+At track 7, add Car Transport Wagon from East
+At track 3, add Locomotive from West
+At track 7, add Passenger Wagon from West
+At track 8, add Freight Wagon from West
+At track 8, add Locomotive from West
+At track 9, add Passenger Wagon from East
+At track 10, remove 3 wagons from West
+At track 6, add Car Transport Wagon from West
+At track 3, remove 2 wagons from East
+At track 6, add Passenger Wagon from East
+At track 7, remove 1 wagon from West
+At track 2, remove 1 wagon from East
+At track 2, remove 1 wagon from East
+At track 6, add Passenger Wagon from West
+At track 10, add Locomotive from West
+At track 8, add Car Transport Wagon from East
+At track 8, add Locomotive from West
+At track 9, add Passenger Wagon from West
+At track 7, add Passenger Wagon from West
+At track 9, add Locomotive from West
+At track 8, add Freight Wagon from West
+At track 10, add Freight Wagon from West
+At track 3, add Passenger Wagon from East
+At track 4, train leaves to West
+At track 3, add Car Transport Wagon from West
+At track 6, add Car Transport Wagon from West
+At track 10, add Passenger Wagon from West
+At track 6, add Locomotive from East
+At track 4, add Car Transport Wagon from West
+At track 3, remove 3 wagons from West
+At track 6, add Car Transport Wagon from West
+At track 6, add Car Transport Wagon from West
+At track 10, train leaves to East
+At track 9, add Passenger Wagon from West
+At track 10, train leaves to West
+At track 6, remove 4 wagons from West
+At track 6, add Car Transport Wagon from West
+At track 9, remove 5 wagons from West
+At track 10, add Freight Wagon from West
+At track 6, add Passenger Wagon from East
+At track 7, add Freight Wagon from West
+At track 9, add Freight Wagon from East
+At track 2, remove 1 wagon from West
+At track 1, remove 2 wagons from West
+At track 10, add Freight Wagon from West
+At track 1, remove 5 wagons from East
+At track 1, add Freight Wagon from West
+At track 1, add Freight Wagon from West
+At track 4, add Freight Wagon from East
+At track 7, add Car Transport Wagon from West
+At track 5, add Locomotive from East
+At track 5, add Passenger Wagon from East
+At track 6, add Freight Wagon from West
+At track 4, add Freight Wagon from East
+At track 10, remove 3 wagons from West
+At track 5, add Freight Wagon from East
+At track 8, remove 1 wagon from West
+At track 6, add Freight Wagon from East
+At track 6, remove 5 wagons from East
+At track 6, add Freight Wagon from East
+At track 3, remove 5 wagons from East
+At track 4, add Passenger Wagon from West
+At track 1, remove 1 wagon from East
+At track 8, train leaves to East
+At track 6, add Locomotive from West
+At track 8, remove 1 wagon from East
+At track 9, remove 4 wagons from West
+At track 5, add Passenger Wagon from West
+At track 1, add Locomotive from West
+At track 8, remove 2 wagons from West
+At track 6, remove 2 wagons from West
+At track 7, add Passenger Wagon from East
+At track 8, add Car Transport Wagon from East
+At track 7, add Passenger Wagon from West
+At track 5, add Passenger Wagon from East
+At track 2, remove 1 wagon from West
+At track 4, add Car Transport Wagon from West
+At track 4, add Locomotive from West
+At track 9, remove 3 wagons from West
+At track 10, add Passenger Wagon from West
+At track 9, add Car Transport Wagon from East
+At track 4, remove 5 wagons from East
+At track 10, add Passenger Wagon from West
+At track 8, remove 3 wagons from East
+At track 5, add Passenger Wagon from East
+At track 4, add Freight Wagon from West
+At track 8, add Passenger Wagon from East
+At track 9, add Passenger Wagon from West
+At track 3, add Freight Wagon from West
+At track 10, add Freight Wagon from West
+At track 6, add Freight Wagon from East
+At track 4, add Car Transport Wagon from West
+At track 9, add Passenger Wagon from East
+At track 3, remove 4 wagons from East
+At track 2, add Car Transport Wagon from East
+At track 10, train leaves to East
+At track 1, remove 3 wagons from East
+At track 2, add Freight Wagon from East
+At track 9, add Passenger Wagon from West
+At track 6, add Car Transport Wagon from West
+At track 3, add Passenger Wagon from East
+At track 3, remove 3 wagons from West
+At track 4, remove 3 wagons from East
+At track 9, remove 2 wagons from West
+At track 9, add Freight Wagon from West
+At track 1, train leaves to West
+At track 9, add Car Transport Wagon from West
+At track 9, add Car Transport Wagon from West
+At track 6, remove 2 wagons from East
+At track 4, remove 2 wagons from West
+At track 9, add Passenger Wagon from East
+At track 9, add Car Transport Wagon from East
+At track 6, add Passenger Wagon from West
+At track 2, add Car Transport Wagon from West
+At track 6, add Locomotive from West
+At track 4, add Freight Wagon from East
+At track 5, remove 5 wagons from West
+At track 9, add Locomotive from East
+At track 1, remove 2 wagons from East
+At track 9, remove 5 wagons from West
+At track 4, remove 2 wagons from West
+At track 8, add Freight Wagon from East
+At track 4, remove 4 wagons from West
+At track 5, train leaves to West
+At track 2, add Freight Wagon from East
+At track 5, add Passenger Wagon from East
+At track 10, add Locomotive from West
+At track 3, add Car Transport Wagon from West
+At track 2, remove 1 wagon from East
+At track 9, remove 5 wagons from East
+At track 8, train leaves to West
+At track 10, add Car Transport Wagon from East
+At track 10, remove 4 wagons from West
+At track 5, add Freight Wagon from West
+At track 9, train leaves to East
+At track 3, train leaves to East
+At track 3, add Locomotive from East
+At track 10, add Car Transport Wagon from East
+At track 8, add Car Transport Wagon from East
+At track 2, add Locomotive from East
+At track 10, add Freight Wagon from East
+At track 3, add Locomotive from West
+At track 3, remove 2 wagons from East
+At track 3, add Car Transport Wagon from East
+At track 6, add Freight Wagon from East
+At track 8, remove 2 wagons from West
+At track 8, add Locomotive from West
+At track 9, add Locomotive from West
+At track 2, train leaves to West
+At track 4, remove 1 wagon from West
+At track 4, add Freight Wagon from West
+At track 3, add Passenger Wagon from West
+At track 6, add Car Transport Wagon from West
+At track 3, remove 3 wagons from West
+At track 9, remove 3 wagons from East
+At track 8, add Passenger Wagon from West
+At track 9, add Car Transport Wagon from East
+At track 4, add Freight Wagon from West
+At track 5, add Passenger Wagon from West
+At track 3, remove 4 wagons from West
+At track 1, add Car Transport Wagon from East
+At track 7, remove 1 wagon from West
+At track 9, add Car Transport Wagon from East
+At track 4, add Passenger Wagon from West
+At track 1, add Car Transport Wagon from West
+At track 3, add Car Transport Wagon from West
+At track 5, add Freight Wagon from West
+At track 9, add Freight Wagon from West
+At track 4, add Car Transport Wagon from East
+At track 6, add Passenger Wagon from East
+At track 3, remove 1 wagon from East
+At track 6, add Freight Wagon from West
+At track 3, remove 2 wagons from East
+At track 6, add Freight Wagon from West
+At track 9, add Freight Wagon from East
+At track 10, add Freight Wagon from East
+At track 3, add Freight Wagon from West
+At track 4, add Locomotive from East
+At track 3, add Locomotive from East
+At track 8, add Locomotive from West
+At track 10, add Freight Wagon from West
+At track 9, add Car Transport Wagon from East
+At track 8, add Car Transport Wagon from East
+At track 4, add Locomotive from West
+At track 9, add Car Transport Wagon from East
+At track 6, remove 1 wagon from East
+At track 6, add Car Transport Wagon from West
+At track 6, remove 5 wagons from East
+At track 3, remove 1 wagon from East
+At track 10, remove 3 wagons from East
+At track 2, remove 4 wagons from East
+At track 3, add Locomotive from East
+At track 8, train leaves to West
+At track 4, remove 5 wagons from East
+At track 3, add Locomotive from East
+At track 1, add Locomotive from West
+At track 10, add Locomotive from West
+At track 5, add Car Transport Wagon from East
+At track 8, train leaves to West
+At track 3, add Car Transport Wagon from East
+At track 5, remove 4 wagons from West
+At track 5, add Freight Wagon from East
+At track 3, add Passenger Wagon from West
+At track 1, add Locomotive from West
+At track 1, add Freight Wagon from East
+At track 5, add Freight Wagon from West
+At track 2, remove 5 wagons from West
+At track 8, remove 4 wagons from East
+At track 6, add Car Transport Wagon from West
+At track 10, add Locomotive from West
+At track 10, remove 3 wagons from West
+At track 3, add Passenger Wagon from West
+At track 4, add Passenger Wagon from East
+At track 2, add Passenger Wagon from West
+At track 5, remove 3 wagons from East
+At track 2, add Locomotive from East
+At track 7, add Passenger Wagon from East
+At track 2, add Passenger Wagon from West
+At track 8, add Locomotive from East
+At track 6, add Car Transport Wagon from West
+At track 8, add Passenger Wagon from West
+At track 5, add Passenger Wagon from East
+At track 10, train leaves to East
+At track 6, add Locomotive from East
+At track 10, add Car Transport Wagon from East
+At track 4, remove 3 wagons from East
+At track 1, remove 3 wagons from West
+At track 3, add Locomotive from West
+At track 7, add Passenger Wagon from West
+At track 1, remove 4 wagons from East
+At track 5, add Locomotive from East
+At track 7, add Passenger Wagon from West
+At track 6, add Car Transport Wagon from East
+At track 6, add Locomotive from West
+At track 3, add Passenger Wagon from West
+At track 8, add Passenger Wagon from East
+At track 5, remove 5 wagons from West
+At track 6, train leaves to West
+At track 5, add Passenger Wagon from East
+At track 5, remove 5 wagons from West
+At track 1, add Passenger Wagon from East
+At track 5, add Car Transport Wagon from East
+At track 7, train leaves to West
+At track 2, remove 1 wagon from East
+At track 9, add Car Transport Wagon from West
+At track 4, add Locomotive from East
+At track 5, add Locomotive from East
+At track 4, remove 4 wagons from East
+At track 5, add Locomotive from East
+At track 4, add Locomotive from East
+At track 6, add Freight Wagon from East
+At track 9, remove 3 wagons from West
+At track 4, train leaves to East
+At track 4, add Car Transport Wagon from East
+At track 9, add Passenger Wagon from East
+At track 3, add Passenger Wagon from West
+At track 3, add Passenger Wagon from West
+At track 6, add Car Transport Wagon from West
+At track 10, remove 2 wagons from East
+At track 5, add Car Transport Wagon from West
+At track 4, add Freight Wagon from East
+At track 7, add Passenger Wagon from West
+At track 6, add Locomotive from West
+At track 4, add Passenger Wagon from East
+At track 3, add Passenger Wagon from East
+At track 7, train leaves to West
+At track 2, add Locomotive from East
+At track 8, add Car Transport Wagon from East
+At track 1, add Locomotive from West
+At track 1, remove 2 wagons from West
+At track 5, add Car Transport Wagon from West
+At track 8, remove 5 wagons from West
+At track 9, remove 5 wagons from East
+At track 8, add Passenger Wagon from East
+At track 4, remove 2 wagons from East
+At track 4, remove 4 wagons from East
+At track 4, add Car Transport Wagon from West
+At track 3, train leaves to West
+At track 5, add Freight Wagon from East
+At track 6, add Freight Wagon from West
+At track 9, remove 1 wagon from West
+At track 9, remove 3 wagons from East
+At track 8, remove 5 wagons from East
+At track 8, remove 5 wagons from West
+At track 2, remove 2 wagons from East
+At track 10, add Freight Wagon from West
+At track 1, add Freight Wagon from West
+At track 9, add Locomotive from West
+At track 3, remove 4 wagons from West
+At track 3, remove 2 wagons from East
+At track 6, add Passenger Wagon from East
+At track 8, train leaves to West
+At track 3, train leaves to East
+At track 8, remove 3 wagons from East
+At track 7, add Locomotive from West
+At track 2, add Passenger Wagon from West
+At track 3, add Passenger Wagon from West
+At track 5, add Freight Wagon from West
+At track 2, remove 1 wagon from East
+At track 4, add Locomotive from East
+At track 4, remove 2 wagons from West
+At track 3, remove 3 wagons from West
+At track 10, add Car Transport Wagon from West
+At track 6, add Car Transport Wagon from East
+At track 9, add Locomotive from West
+At track 4, add Locomotive from East
+At track 5, add Freight Wagon from West
+At track 2, train leaves to West
+At track 4, add Car Transport Wagon from East
+At track 6, add Passenger Wagon from West
+At track 5, remove 3 wagons from East
+At track 1, train leaves to West
+At track 9, remove 3 wagons from East
+At track 6, add Car Transport Wagon from West
+At track 6, train leaves to West
+At track 10, add Locomotive from East
+At track 1, remove 1 wagon from East
+At track 4, add Freight Wagon from West
+At track 3, add Freight Wagon from West
+At track 4, add Passenger Wagon from East
+At track 5, add Freight Wagon from West
+At track 4, remove 3 wagons from East
+At track 4, add Car Transport Wagon from West
+At track 9, add Car Transport Wagon from East
+At track 1, remove 5 wagons from West
+At track 9, remove 3 wagons from East
+At track 7, add Locomotive from West
+At track 1, add Freight Wagon from East
+At track 1, add Passenger Wagon from West
+At track 4, remove 2 wagons from East
+At track 7, remove 1 wagon from West
+At track 9, add Locomotive from West
+At track 8, add Car Transport Wagon from West
+At track 3, add Freight Wagon from West
+At track 8, remove 2 wagons from West
+At track 1, train leaves to West
+At track 10, add Passenger Wagon from West
+At track 2, remove 5 wagons from East
+At track 3, remove 4 wagons from East
+At track 9, train leaves to West
+At track 10, add Passenger Wagon from West
+At track 2, remove 4 wagons from East
+At track 6, add Passenger Wagon from East
+At track 5, add Freight Wagon from East
+At track 9, add Locomotive from East
+At track 3, remove 4 wagons from East
+At track 9, add Passenger Wagon from East
+At track 5, train leaves to East
+At track 8, train leaves to West
+At track 2, add Passenger Wagon from East
+At track 4, remove 2 wagons from West
+At track 4, add Car Transport Wagon from West
+At track 5, add Locomotive from West
+At track 2, add Car Transport Wagon from West
+At track 3, add Car Transport Wagon from West
+At track 10, remove 4 wagons from West
+At track 10, remove 2 wagons from West
+At track 8, remove 4 wagons from West
+At track 1, add Car Transport Wagon from East
+At track 3, add Freight Wagon from West
+At track 3, remove 3 wagons from West
+At track 2, add Car Transport Wagon from East
+At track 10, remove 2 wagons from West
+At track 2, add Passenger Wagon from East
+At track 1, add Locomotive from West
+At track 9, add Passenger Wagon from East
+At track 8, add Passenger Wagon from East
+At track 4, add Car Transport Wagon from West
+At track 7, add Locomotive from East
+At track 8, remove 1 wagon from East
+At track 4, add Passenger Wagon from West
+At track 4, add Freight Wagon from East
+At track 4, add Car Transport Wagon from East
+At track 2, remove 3 wagons from West
+At track 5, add Car Transport Wagon from West
+At track 10, add Locomotive from West
+At track 7, remove 3 wagons from West
+At track 6, remove 3 wagons from West
+At track 3, add Car Transport Wagon from West
+At track 2, add Passenger Wagon from East
+At track 1, add Freight Wagon from West
+At track 3, add Locomotive from West
+At track 10, add Car Transport Wagon from East
+At track 10, add Passenger Wagon from West
+At track 5, remove 5 wagons from West
+At track 3, add Passenger Wagon from East
+At track 3, remove 2 wagons from West
+At track 9, add Car Transport Wagon from West
+At track 10, add Freight Wagon from East
+At track 7, add Locomotive from West
+At track 2, add Freight Wagon from West
+At track 6, remove 4 wagons from West
+At track 4, add Freight Wagon from East
+At track 3, remove 1 wagon from West
+At track 7, add Locomotive from West
+At track 10, add Car Transport Wagon from West
+At track 1, remove 1 wagon from East
+At track 7, remove 1 wagon from West
+At track 2, add Locomotive from East
+At track 9, train leaves to West
+At track 5, add Locomotive from West
+At track 5, add Locomotive from East
+At track 3, add Freight Wagon from West
+At track 6, add Passenger Wagon from West
+At track 2, add Passenger Wagon from East
+At track 10, add Car Transport Wagon from West
+At track 1, remove 1 wagon from West
+At track 10, remove 2 wagons from East
+At track 2, train leaves to East
+At track 6, add Car Transport Wagon from West
+At track 8, train leaves to West
+At track 3, add Passenger Wagon from East
+At track 10, train leaves to West
+At track 6, train leaves to West
+At track 3, add Locomotive from West
+At track 7, remove 4 wagons from West
+At track 5, add Locomotive from East
+At track 9, add Locomotive from West
+At track 5, add Freight Wagon from East
+At track 1, remove 5 wagons from East
+At track 1, add Locomotive from East
+At track 2, add Car Transport Wagon from West
+At track 9, add Locomotive from East
+At track 3, add Car Transport Wagon from East
+At track 10, add Car Transport Wagon from West
+At track 5, add Locomotive from East
+At track 4, add Passenger Wagon from East
+At track 2, train leaves to West
+At track 9, add Passenger Wagon from East
+At track 5, train leaves to East
+At track 4, add Freight Wagon from West
+At track 1, remove 2 wagons from East
+At track 6, remove 2 wagons from East
+At track 10, add Car Transport Wagon from West
+At track 10, add Car Transport Wagon from East
+At track 3, add Locomotive from East
+At track 4, add Freight Wagon from West
+At track 5, add Locomotive from West
+At track 7, add Passenger Wagon from West
+At track 10, train leaves to East
+At track 6, remove 4 wagons from West
+At track 8, remove 2 wagons from East
+At track 5, remove 4 wagons from East
+At track 7, remove 5 wagons from West
+At track 6, remove 1 wagon from West
+At track 8, add Freight Wagon from East
+At track 4, add Car Transport Wagon from East
+At track 3, add Passenger Wagon from West
+At track 5, add Passenger Wagon from West
+At track 5, add Car Transport Wagon from West
+At track 5, add Passenger Wagon from West
+At track 3, remove 1 wagon from East
+At track 1, add Car Transport Wagon from East
+At track 2, add Car Transport Wagon from West
+At track 4, remove 4 wagons from East
+At track 7, add Freight Wagon from West
+At track 7, remove 1 wagon from East
+At track 6, add Car Transport Wagon from East
+At track 4, add Passenger Wagon from East
+At track 6, add Freight Wagon from West
+At track 5, add Locomotive from West
+At track 10, add Freight Wagon from East
+At track 2, add Passenger Wagon from West
+At track 2, train leaves to West
+At track 7, add Freight Wagon from West
+At track 9, add Car Transport Wagon from West
+At track 9, add Car Transport Wagon from East
+At track 3, add Freight Wagon from West
+At track 1, train leaves to West
+At track 5, add Passenger Wagon from West
+At track 10, add Passenger Wagon from West
+At track 7, add Car Transport Wagon from West
+At track 9, remove 4 wagons from East
+At track 7, add Car Transport Wagon from East
+At track 4, add Passenger Wagon from East
+At track 3, add Locomotive from East
+At track 7, add Freight Wagon from West
+At track 9, remove 5 wagons from East
+At track 9, add Freight Wagon from East
+At track 5, remove 4 wagons from East
+At track 9, add Locomotive from West
+At track 5, add Locomotive from East
+At track 2, remove 5 wagons from West
+At track 6, add Locomotive from East
+At track 7, add Passenger Wagon from West
+At track 10, add Freight Wagon from East
+At track 3, remove 4 wagons from West
+At track 10, add Locomotive from West
+At track 6, add Locomotive from East
+At track 2, add Car Transport Wagon from East
+At track 10, add Freight Wagon from East
+At track 2, remove 4 wagons from West
+At track 5, train leaves to East
+At track 7, remove 3 wagons from East
+At track 2, remove 4 wagons from West
+At track 10, add Locomotive from East
+At track 7, add Freight Wagon from East
+At track 5, train leaves to West
+At track 10, remove 5 wagons from East
+At track 7, remove 3 wagons from West
+At track 4, add Freight Wagon from East
+At track 4, add Passenger Wagon from West
+At track 1, remove 5 wagons from West
+At track 3, add Freight Wagon from West
+At track 2, add Passenger Wagon from East
+At track 3, remove 3 wagons from West
+At track 3, remove 5 wagons from East
+At track 7, add Freight Wagon from West
+At track 1, remove 1 wagon from West
+At track 3, add Car Transport Wagon from East
+At track 1, add Car Transport Wagon from East
+At track 4, remove 1 wagon from West
+At track 3, remove 4 wagons from East
+At track 6, add Passenger Wagon from East
+At track 6, train leaves to West
+At track 8, add Passenger Wagon from West
+At track 6, remove 4 wagons from West
+At track 9, remove 4 wagons from West
+At track 5, add Freight Wagon from West
+At track 10, add Car Transport Wagon from West
+At track 4, remove 3 wagons from West
+At track 10, add Car Transport Wagon from West
+At track 4, remove 3 wagons from West
+At track 8, add Locomotive from West
+At track 6, remove 2 wagons from West
+At track 2, add Car Transport Wagon from West
+At track 1, add Passenger Wagon from East
+At track 2, remove 3 wagons from East
+At track 1, add Locomotive from East
+At track 1, add Locomotive from West
+At track 3, remove 2 wagons from East
+At track 2, remove 4 wagons from West
+At track 4, remove 4 wagons from East
+At track 5, remove 2 wagons from East
+At track 8, add Car Transport Wagon from East
+At track 3, add Freight Wagon from West
+At track 10, remove 4 wagons from West
+At track 7, add Freight Wagon from East
+At track 10, add Passenger Wagon from West
+At track 7, remove 4 wagons from West
+At track 7, remove 3 wagons from West
+At track 7, remove 2 wagons from East
+At track 2, add Passenger Wagon from East
+At track 8, remove 5 wagons from West
+At track 9, add Freight Wagon from East
+At track 4, add Freight Wagon from East
+At track 1, add Locomotive from East
+At track 1, train leaves to West
+At track 5, remove 5 wagons from East
+At track 4, add Freight Wagon from West
+At track 8, remove 3 wagons from East
+At track 10, add Passenger Wagon from West
+At track 8, add Passenger Wagon from West
+At track 3, add Freight Wagon from West
+At track 3, add Car Transport Wagon from East
+At track 6, remove 2 wagons from East
+At track 1, remove 2 wagons from West
+At track 5, add Freight Wagon from East
+At track 3, remove 5 wagons from East
+At track 7, add Freight Wagon from East
+At track 9, add Freight Wagon from West
+At track 10, add Car Transport Wagon from West
+At track 1, add Passenger Wagon from East
+At track 2, remove 3 wagons from West
+At track 9, add Locomotive from East
+At track 5, remove 4 wagons from West
+At track 8, add Car Transport Wagon from East
+At track 10, train leaves to East
+At track 6, add Freight Wagon from West
+At track 2, remove 2 wagons from West
+At track 3, add Freight Wagon from East
+At track 9, add Car Transport Wagon from East
+At track 8, train leaves to East
+At track 9, add Locomotive from East
+At track 6, add Passenger Wagon from West
+At track 10, add Freight Wagon from East
+At track 8, remove 1 wagon from East
+At track 8, add Locomotive from West
+At track 6, add Freight Wagon from West
+At track 2, add Locomotive from West
+At track 3, train leaves to West
+At track 1, add Locomotive from East
+At track 1, add Locomotive from East
+At track 6, remove 1 wagon from East
+At track 3, add Car Transport Wagon from East
+At track 1, add Freight Wagon from West
+At track 1, add Passenger Wagon from West
+At track 2, add Locomotive from West
+At track 7, add Car Transport Wagon from West
+At track 10, add Freight Wagon from East
+At track 10, add Freight Wagon from East
+At track 3, train leaves to West
+At track 3, add Passenger Wagon from West
+At track 4, add Locomotive from East
+At track 8, add Passenger Wagon from West
+At track 4, add Locomotive from East
+At track 6, remove 3 wagons from East
+At track 3, remove 1 wagon from East
+At track 8, add Car Transport Wagon from West
+At track 3, remove 4 wagons from West
+At track 10, add Freight Wagon from East
+At track 6, add Passenger Wagon from West
+At track 10, train leaves to West
+At track 1, remove 4 wagons from West
+At track 8, add Car Transport Wagon from East
+At track 1, add Locomotive from East
+At track 10, add Locomotive from West
+At track 5, add Car Transport Wagon from East
+At track 10, add Car Transport Wagon from East
