@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainSwitching.Logic", "Tra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainSwitching.Tests", "TrainSwitching.Tests\TrainSwitching.Tests.csproj", "{C908C92A-D85C-4B40-A872-F976634E6578}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainSwitching.Generator", "TrainSwitching.Generator\TrainSwitching.Generator.csproj", "{5354BEE7-E63A-47BC-9D9D-106B63CCEE68}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainSwitching.Importer", "TrainSwitching.Importer\TrainSwitching.Importer.csproj", "{0A305781-B95E-47C4-9D4E-2CDC7F124520}"
 EndProject
 Global
