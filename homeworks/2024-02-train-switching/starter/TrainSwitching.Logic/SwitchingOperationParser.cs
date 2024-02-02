@@ -12,4 +12,25 @@ public static class SwitchingOperationParser
         // TODO: Implement this method
         throw new NotImplementedException();
     }
+    
+    /// <summary>
+    /// Parses the given input bytes into a SwitchingOperation.
+    /// </summary>
+    /// <param name="inputBytes">Input bytes, structure see comments below</param>
+    /// <returns>Switching operation</returns>
+    public static SwitchingOperation Parse(byte[] inputBytes)
+    {
+        // inputBytes[0]:
+        // * 4 bits for track number
+        // * 4 bits for operation type
+        // inputBytes[1]:
+        // * 1 bit for direction
+        // * Last 7 bits:
+        //   * if operation is add, 7 bits for wagon type
+        //   * if operation is remove, 7 bits for number of wagons
+        //   * if operation is train leave, 7 zero bits
+
+        // TODO: Implement this method
+        throw new NotImplementedException();
+    }
 }
