@@ -16,15 +16,11 @@ public class PossibleNumbers
     {
         // Singles (aka Straight up)
         for (int i = 0; i < 37; i++) { SingleNumbers.Add(i); }
+        //SingleNumbers.AddRange(Enumerable.Range(0, 37));
 
         // Red and black
-        for (int i = 1; i < 37; i++)
-        {
-            if (!RedBlack[0].Contains(i))
-            {
-                RedBlack[1].Add(i);
-            }
-        }
+        var redNumbers = RedBlack[0];
+        RedBlack[1] = Enumerable.Range(1, 36).Except(redNumbers).ToHashSet();
 
         // Even and odd
         for (int i = 1; i < 37; i++)
