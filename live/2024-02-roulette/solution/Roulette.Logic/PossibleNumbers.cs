@@ -74,7 +74,7 @@ public class PossibleNumbers
         {
             for (int square = 0; square < 2; square++)
             {
-                Squares.Add([1 + row * 3, 1 + row * 3 + 1, 1 + (row + 1) * 3, 1 + (row + 1) * 3 + 1]);
+                Squares.Add([1 + row * 3 + square, 1 + row * 3 + 1 + square, 1 + (row + 1) * 3 + square, 1 + (row + 1) * 3 + 1 + square]);
             }
         }
 
