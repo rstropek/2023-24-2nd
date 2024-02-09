@@ -20,7 +20,10 @@ public class PossibleNumbers
         // Red and black
         for (int i = 1; i < 37; i++)
         {
-            RedBlack[1].Add(i);
+            if (!RedBlack[0].Contains(i))
+            {
+                RedBlack[1].Add(i);
+            }
         }
 
         // Even and odd
