@@ -96,16 +96,17 @@ public class PossibleNumbersTests
     {
         var pb = new PossibleNumbers();
         AreEqual([
-                [1, 2, 4, 5], [2, 3, 5, 6], [4, 5, 7, 8], [5, 6, 8, 9], [7, 8, 10, 11], [8, 9, 11, 12], 
-                [10, 11, 13, 14], [11, 12, 14, 15], [13, 14, 16, 17], [14, 15, 17, 18], [16, 17, 19, 20], 
-                [17, 18, 20, 21], [19, 20, 22, 23], [20, 21, 23, 24], [22, 23, 25, 26], [23, 24, 26, 27], 
-                [25, 26, 28, 29], [26, 27, 29, 30], [28, 29, 31, 32], [29, 30, 32, 33], [31, 32, 34, 35], [32, 33, 35, 36],
-                [1, 2, 4, 5], [4, 5, 7, 8], [7, 8, 10, 11], [10, 11, 13, 14], [13, 14, 16, 17], [16, 17, 19, 20], 
-                [19, 20, 22, 23], [22, 23, 25, 26], [25, 26, 28, 29], [28, 29, 31, 32],
-                [2, 3, 5, 6], [5, 6, 8, 9], [8, 9, 11, 12], [11, 12, 14, 15], [14, 15, 17, 18], [17, 18, 20, 21], 
-                [20, 21, 23, 24], [23, 24, 26, 27], [26, 27, 29, 30], [29, 30, 32, 33],
-                [3, 6, 9, 12], [6, 9, 12, 15], [9, 12, 15, 18], [12, 15, 18, 21], [15, 18, 21, 24], 
-                [18, 21, 24, 27], [21, 24, 27, 30], [24, 27, 30, 33], [27, 30, 33, 36]
+                [1, 2, 4, 5], [2, 3, 5, 6], 
+                [4, 5, 7, 8], [5, 6, 8, 9], 
+                [7, 8, 10, 11], [8, 9, 11, 12], 
+                [10, 11, 13, 14], [11, 12, 14, 15], 
+                [13, 14, 16, 17], [14, 15, 17, 18], 
+                [16, 17, 19, 20], [17, 18, 20, 21], 
+                [19, 20, 22, 23], [20, 21, 23, 24], 
+                [22, 23, 25, 26], [23, 24, 26, 27], 
+                [25, 26, 28, 29], [26, 27, 29, 30], 
+                [28, 29, 31, 32], [29, 30, 32, 33], 
+                [31, 32, 34, 35], [32, 33, 35, 36],
             ], pb.Squares);
     }
 
@@ -123,43 +124,29 @@ public class PossibleNumbersTests
     [Fact]
     public void TestAreEqual()
     {
-        Assert.True(AreEqual([[1, 2], [3, 4]], [[3, 4], [1, 2]]));
-        Assert.True(AreEqual([[1, 2], [3, 4]], [[1, 2], [3, 4]]));
-        Assert.False(AreEqual([[1, 2], [3, 4]], [[1, 2], [3, 4], [5, 6]]));
-        Assert.False(AreEqual([[1, 2], [3, 4]], [[1, 2], [3, 5]]));
-        Assert.False(AreEqual([[1, 2], [3, 4]], [[1, 2], [3, 4, 5]]));
-        Assert.False(AreEqual([[1, 2], [3, 4], [5, 6]], [[1, 2], [3, 4]]));
-        Assert.True(AreEqual([[1, 2], [3, 5]], [[1, 2], [3, 5]]));
+        AreEqual([[1, 2], [3, 4]], [[3, 4], [1, 2]]);
+        AreEqual([[1, 2], [3, 4]], [[1, 2], [3, 4]]);
+        AreEqual([[1, 2], [3, 5]], [[1, 2], [3, 5]]);
     }
 
-    private static bool AreEqual(List<HashSet<int>> a, List<HashSet<int>> b)
+
+    private static void AreEqual(List<HashSet<int>> a, List<HashSet<int>> b)
     {
         // Return true if all lists in a are in b and vice versa.
         // The order of the lists in the lists doesn't matter.
         // The order of the numbers in the lists doesn't matter.
         // The numbers in the lists must be unique.
 
-        if (a.Count != b.Count)
-        {
-            return false;
-        }
+        Assert.Equal(a.Count, b.Count);
 
         foreach (var set in a)
         {
-            if (!b.Any(l => l.SetEquals(set)))
-            {
-                return false;
-            }
+            Assert.Contains(b, l => l.SetEquals(set));
         }
 
         foreach (var set in b)
         {
-            if (!a.Any(l => l.SetEquals(set)))
-            {
-                return false;
-            }
+            Assert.Contains(a, l => l.SetEquals(set));
         }
-
-        return true;
     }
 }

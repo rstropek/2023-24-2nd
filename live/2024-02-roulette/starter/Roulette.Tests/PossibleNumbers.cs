@@ -123,43 +123,29 @@ public class PossibleNumbersTests
     [Fact]
     public void TestAreEqual()
     {
-        Assert.True(AreEqual([[1, 2], [3, 4]], [[3, 4], [1, 2]]));
-        Assert.True(AreEqual([[1, 2], [3, 4]], [[1, 2], [3, 4]]));
-        Assert.False(AreEqual([[1, 2], [3, 4]], [[1, 2], [3, 4], [5, 6]]));
-        Assert.False(AreEqual([[1, 2], [3, 4]], [[1, 2], [3, 5]]));
-        Assert.False(AreEqual([[1, 2], [3, 4]], [[1, 2], [3, 4, 5]]));
-        Assert.False(AreEqual([[1, 2], [3, 4], [5, 6]], [[1, 2], [3, 4]]));
-        Assert.True(AreEqual([[1, 2], [3, 5]], [[1, 2], [3, 5]]));
+        AreEqual([[1, 2], [3, 4]], [[3, 4], [1, 2]]);
+        AreEqual([[1, 2], [3, 4]], [[1, 2], [3, 4]]);
+        AreEqual([[1, 2], [3, 5]], [[1, 2], [3, 5]]);
     }
 
-    private static bool AreEqual(List<HashSet<int>> a, List<HashSet<int>> b)
+
+    private static void AreEqual(List<HashSet<int>> a, List<HashSet<int>> b)
     {
         // Return true if all lists in a are in b and vice versa.
         // The order of the lists in the lists doesn't matter.
         // The order of the numbers in the lists doesn't matter.
         // The numbers in the lists must be unique.
 
-        if (a.Count != b.Count)
-        {
-            return false;
-        }
+        Assert.Equal(a.Count, b.Count);
 
         foreach (var set in a)
         {
-            if (!b.Any(l => l.SetEquals(set)))
-            {
-                return false;
-            }
+            Assert.Contains(b, l => l.SetEquals(set));
         }
 
         foreach (var set in b)
         {
-            if (!a.Any(l => l.SetEquals(set)))
-            {
-                return false;
-            }
+            Assert.Contains(a, l => l.SetEquals(set));
         }
-
-        return true;
     }
 }
