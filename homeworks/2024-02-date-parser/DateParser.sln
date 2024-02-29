@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateParser.Tests", "DateParser.Tests\DateParser.Tests.csproj", "{0D96D6A2-7A29-4002-A1A0-D5998C175D13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateParser.Logic", "DateParser.Logic\DateParser.Logic.csproj", "{77C33149-CA16-4CB0-B555-AC725D29CFCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D96D6A2-7A29-4002-A1A0-D5998C175D13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D96D6A2-7A29-4002-A1A0-D5998C175D13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D96D6A2-7A29-4002-A1A0-D5998C175D13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D96D6A2-7A29-4002-A1A0-D5998C175D13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDE304F9-4C09-4B7D-9ECE-9F6C0D58D102}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDE304F9-4C09-4B7D-9ECE-9F6C0D58D102}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDE304F9-4C09-4B7D-9ECE-9F6C0D58D102}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDE304F9-4C09-4B7D-9ECE-9F6C0D58D102}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77C33149-CA16-4CB0-B555-AC725D29CFCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77C33149-CA16-4CB0-B555-AC725D29CFCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77C33149-CA16-4CB0-B555-AC725D29CFCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77C33149-CA16-4CB0-B555-AC725D29CFCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
