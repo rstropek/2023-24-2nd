@@ -1,8 +1,8 @@
-﻿ExplicitException();
+﻿//ExplicitException();
 //CallLevel1();
 //ArgumentException(null);
 //ArgumentException(-1);
-//ImplicitException1(1, 0);
+ImplicitException1(1, 0);
 //ImplicitException2();
 //ImplicitException3();
 //MethodsThatThrow();
@@ -43,7 +43,9 @@ void CallLevel1()
     // This try-catch block will catch the exception thrown by CallLevel3
     try
     {
+        Console.WriteLine("Before");
         CallLevel2();
+        Console.WriteLine("After");
     }
     catch (Exception ex)
     {
@@ -163,9 +165,9 @@ void CatchWithFilter()
     // You can even add filter conditions to catch blocks.
     try
     {
-        throw new ApplicationException("Error 404");
+        throw new ApplicationException("My spaceship exploded");
     }
-    catch (Exception ex) when (ex.Message.Contains("404"))
+    catch (Exception ex) when (ex.Message.Contains("spaceship"))
     {
         Console.WriteLine($"Exception caught: {ex.Message}");
     }
@@ -191,6 +193,7 @@ void FinallyBlock()
 {
     try
     {
+        // Open a file here
         ExplicitException();
     }
     catch (Exception ex)
@@ -199,6 +202,8 @@ void FinallyBlock()
     }
     finally
     {
+        // Close the file
+
         // The finally block is executed no matter if an exception was thrown or not.
         // It is useful for cleanup code (e.g. closing a previously opened file or database connection).
         Console.WriteLine("Finally block executed");
@@ -211,7 +216,7 @@ void ThrowMyException()
     // Here, we throw and catch a custom exception type.
     try
     {
-        throw new MyException();
+        throw new MyException("This is the reason of the exception: ...");
     }
     catch (MyException ex)
     {
@@ -221,7 +226,7 @@ void ThrowMyException()
 
 class MyException : Exception
 {
-    public MyException() : base("Rocket crashed into the ground") { }
+    public MyException() : base("Something bad happened, I don't know exactly what") { }
 
     public MyException(string message) : base(message) { }
 
