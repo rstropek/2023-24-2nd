@@ -8,7 +8,7 @@ In this exercise, you practice the following topics:
 * Class inheritance, polymorphism, and encapsulation
 * Unit testing
 
-This exercise follows the principles introduced in [_2024-03-polymorphism_](../../live/2024-03-polymorphism/).
+This exercise follows the principles introduced in [_2024-03-polymorphism_](https://github.com/rstropek/2023-24-2nd/tree/main/live/2024-03-polymorphism).
 
 ## Setting Up the Project
 
@@ -79,7 +79,7 @@ Change: 0E
   * Correct parsing of `2E`, `1E`, `50C`, `20C`, and `10C`.
   * Incorrect parsing of `3E`, `1D`, `50`, and `20Cents`.
 
-**Tip**: Revisit the tests shown in [_NumberAdderTests.cs_](../../live/2024-03-polymorphism/Adder.Tests/NumberAdderTests.cs) for inspiration.
+**Tip**: Revisit the tests shown in [_NumberAdderTests.cs_](https://github.com/rstropek/2023-24-2nd/tree/main/live/2024-03-polymorphism/Adder.Tests/NumberAdderTests.cs) for inspiration.
 
 ## Step 2
 
@@ -97,13 +97,13 @@ Change: 0E
   * `GetChange` returns the correct change.
   * `GetChange` throws an `InvalidOperationException` if the total amount is less than the product price.
 
-**Tip**: Revisit the tests shown in [_NumberAdderTests.cs_](../../live/2024-03-polymorphism/Adder.Tests/NumberAdderTests.cs) for inspiration.
+**Tip**: Revisit the tests shown in [_NumberAdderTests.cs_](https://github.com/rstropek/2023-24-2nd/tree/main/live/2024-03-polymorphism/Adder.Tests/NumberAdderTests.cs) for inspiration.
 
 ## Step 3
 
 * Implement a class `CoinHandlingConsole` that contains the main logic of the console app.
 * The class has a `HandleCoins` method that contains the user interaction logic (input/output) as shown above. The method returns the change to be returned to the user.
-* Create `virtual` methods `WriteLine` and `ReadLine` that encapsulate the console input/output. These methods will be overridden in a derived class for testing purposes (as demonstrated in [_NumberAdderConsoleMock.cs_](../../live/2024-03-polymorphism/Adder.Tests/NumberAdderConsoleMock.cs)).
+* Create `virtual` methods `WriteLine` and `ReadLine` that encapsulate the console input/output. These methods will be overridden in a derived class for testing purposes (as demonstrated in [_NumberAdderConsoleMock.cs_](https://github.com/rstropek/2023-24-2nd/tree/main/live/2024-03-polymorphism/Adder.Tests/NumberAdderConsoleMock.cs)).
 * In the main program, create an instance of `CoinHandlingConsole` and call the `HandleCoins` method. Test your program manually.
 
 ## Step 4
@@ -116,4 +116,4 @@ Change: 0E
   * The user enters valid coins so that the total amount exceeds the product price and therefore the user gets change.
   * The user enters an invalid coin.
 
-**Tip**: Revisit the tests shown in [_NumberAdderConsoleMock.cs_](../../live/2024-03-polymorphism/Adder.Tests/NumberAdderConsoleMock.cs) and [_NumberAdderConsoleTests.cs_](../../live/2024-03-polymorphism/Adder.Tests/NumberAdderConsoleTests.cs) for inspiration.
+**Tip**: Revisit the tests shown in [_NumberAdderConsoleMock.cs_](https://github.com/rstropek/2023-24-2nd/tree/main/live/2024-03-polymorphism/Adder.Tests/NumberAdderConsoleMock.cs) and [_NumberAdderConsoleTests.cs_](https://github.com/rstropek/2023-24-2nd/tree/main/live/2024-03-polymorphism/Adder.Tests/NumberAdderConsoleTests.cs) for inspiration.
