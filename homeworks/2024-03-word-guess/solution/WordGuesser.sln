@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordGuesser", "WordGuesser\WordGuesser.csproj", "{EC8A92D5-53E5-4CDE-8317-82172BA27282}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordGuesser.Tests", "WordGuesser.Tests\WordGuesser.Tests.csproj", "{B99F4FC9-6094-4D75-8DCF-6D569A6C7103}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC8A92D5-53E5-4CDE-8317-82172BA27282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC8A92D5-53E5-4CDE-8317-82172BA27282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC8A92D5-53E5-4CDE-8317-82172BA27282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC8A92D5-53E5-4CDE-8317-82172BA27282}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B99F4FC9-6094-4D75-8DCF-6D569A6C7103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B99F4FC9-6094-4D75-8DCF-6D569A6C7103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B99F4FC9-6094-4D75-8DCF-6D569A6C7103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B99F4FC9-6094-4D75-8DCF-6D569A6C7103}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
