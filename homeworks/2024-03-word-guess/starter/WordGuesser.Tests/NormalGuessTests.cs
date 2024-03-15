@@ -34,14 +34,8 @@ public class NormalGuessTests
         // Use the WordGuessMockSingleWord class to test if 
         // the CurrentGuess property is initialized correctly.
 
-        // Arrange
-        var wordGuess = new WordGuessMockSingleWord();
-
-        // Act
-        var currentGuess = wordGuess.CurrentGuess;
-
-        // Assert
-        Assert.Equal("____", currentGuess);
+        // TODO: Implement the requested logic
+        throw new NotImplementedException();
     }
 
     [Fact]
@@ -51,14 +45,8 @@ public class NormalGuessTests
         // the CurrentGuess property is initialized correctly when
         // the word to guess is a group of words.
 
-        // Arrange
-        var wordGuess = new WordGuessMockWordGroup();
-
-        // Act
-        var currentGuess = wordGuess.CurrentGuess;
-
-        // Assert
-        Assert.Equal("____ ____", currentGuess);
+        // TODO: Implement the requested logic
+        throw new NotImplementedException();
     }
 
     [Fact]
@@ -69,15 +57,8 @@ public class NormalGuessTests
         // Use the letter "t" to also verify if the method is case-insensitive
         // and replaces all occurrences of the letter in the word.
 
-        // Arrange
-        var wordGuess = new WordGuessMockSingleWord();
-
-        // Act
-        var result = wordGuess.Guess('t');
-
-        // Assert
-        Assert.True(result);
-        Assert.Equal("T__t", wordGuess.CurrentGuess);
+        // TODO: Implement the requested logic
+        throw new NotImplementedException();
     }
 
     [Fact]
@@ -86,14 +67,7 @@ public class NormalGuessTests
         // Use the WordGuessMockSingleWord class to test if
         // the Guess method returns false when the guessed letter is not in the word.
 
-        // Arrange
-        var wordGuess = new WordGuessMockSingleWord();
-
-        // Act
-        var result = wordGuess.Guess('z');
-
-        // Assert
-        Assert.False(result);
-        Assert.Equal("____", wordGuess.CurrentGuess);
+        // TODO: Implement the requested logic
+        throw new NotImplementedException();
     }
 }

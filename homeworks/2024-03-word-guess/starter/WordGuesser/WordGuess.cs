@@ -61,14 +61,16 @@ public class WordGuess
     /// stores it in <see cref="WordToGuess"/>. It then calls <see cref="GetInitialGuess"/>.
     public WordGuess()
     {
-        WordToGuess = GetRandomWord();
-        CurrentGuess = GetInitialGuess();
+        // TODO: Implement the constructor
+        throw new NotImplementedException();
     }
 
     /// <summary>
     /// Gets a value indicating if the game is completed (i.e. all letter of the word have been guessed).
     /// </summary>
-    public bool Completed => CurrentGuess == WordToGuess;
+    public bool Completed =>
+        // TODO: Implement the requested logic
+        throw new NotImplementedException();
 
     /// <summary>
     /// Returns a random word from <see cref="AvailableWords"/>.
@@ -76,7 +78,9 @@ public class WordGuess
     /// <returns>Random word from <see cref="AvailableWords"/></returns>
     public virtual string GetRandomWord()
     {
-        return Random.Shared.GetItems(AvailableWords, 1)[0];
+        // TODO: Implement the requested logic
+        throw new NotImplementedException();
+
     }
 
     /// <summary>
@@ -91,13 +95,8 @@ public class WordGuess
     /// </remarks>
     public virtual string GetInitialGuess()
     {
-        var builder = new StringBuilder(WordToGuess.Length);
-        foreach (var c in WordToGuess)
-        {
-            builder.Append(c == ' ' ? ' ' : '_');
-        }
-
-        return builder.ToString();
+        // TODO: Implement the requested logic
+        throw new NotImplementedException();
     }
 
     /// <summary>
@@ -115,19 +114,8 @@ public class WordGuess
     /// </remarks>
     public virtual bool Guess(char letter)
     {
-        var found = false;
-        var builder = new StringBuilder(CurrentGuess);
-        for (var i = 0; i < WordToGuess.Length; i++)
-        {
-            if (char.ToLower(WordToGuess[i]) == char.ToLower(letter))
-            {
-                found = true;
-                builder[i] = WordToGuess[i];
-            }
-        }
-
-        CurrentGuess = builder.ToString();
-        return found;
+        // TODO: Implement the requested logic
+        throw new NotImplementedException();
     }
 }
 
@@ -153,33 +141,8 @@ public class EasyWordGuess : WordGuess
     /// </remarks>
     public override string GetInitialGuess()
     {
-        var builder = new StringBuilder(base.GetInitialGuess());
-        var revealed = new HashSet<char>();
-
-        var availableChars = new HashSet<char>(WordToGuess.ToLower());
-        var numberOfAvailableChars = availableChars.Count;
-        if (WordToGuess.Contains(' ')) { numberOfAvailableChars--; }
-        if (numberOfAvailableChars <= 3) { return builder.ToString(); }
-
-        for (var i = 0; i < 3; i++)
-        {
-            char letter;
-            do
-            {
-                letter = WordToGuess[Random.Shared.Next(WordToGuess.Length)];
-            } while (letter == ' ' || revealed.Contains(letter));
-
-            revealed.Add(letter);
-            for (var j = 0; j < WordToGuess.Length; j++)
-            {
-                if (char.ToLower(WordToGuess[j]) == char.ToLower(letter))
-                {
-                    builder[j] = WordToGuess[j];
-                }
-            }
-        }
-
-        return builder.ToString();
+        // TODO: Implement the requested logic
+        throw new NotImplementedException();
     }
 }
 
@@ -206,15 +169,7 @@ public class HardWordGuess : WordGuess
     /// </remarks>
     public override bool Guess(char letter)
     {
-        for (var i = 0; i < WordToGuess.Length; i++)
-        {
-            if (WordToGuess[i] == letter)
-            {
-                CurrentGuess = CurrentGuess[..i] + letter + CurrentGuess[(i + 1)..];
-                return true;
-            }
-        }
-
-        return false;
+        // TODO: Implement the requested logic
+        throw new NotImplementedException();
     }
 }
