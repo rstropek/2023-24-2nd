@@ -58,9 +58,19 @@ public class WordGuess
     /// </summary>
     /// <remarks>
     /// This constructor picks a random word from <see cref="AvailableWords"/>  and
-    /// stores it in <see cref="WordToGuess"/>. It then calls <see cref="GetInitialGuess"/>.
+    /// stores it in <see cref="WordToGuess"/>. It then calls <see cref="GetInitialGuess"/>
+    /// and stores the result in <see cref="CurrentGuess"/>.
     public WordGuess()
     {
+        // Note on the side: We are calling virtual methods in a constructor here.
+        // Strictly speaking, this is not recommended. It can lead to unwanted side
+        // effect in edge cases. However, in this case, it is safe to do because the derived
+        // classes do not have their own constructors. Just remember: Later when you
+        // work in practice and you build production code, avoid calling virtual methods
+        // in constructors. If you want to learn more, take a look at
+        // https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/quality-rules/ca2214
+        // (these details are not relevant for exams in your current class).
+
         WordToGuess = GetRandomWord();
         CurrentGuess = GetInitialGuess();
     }

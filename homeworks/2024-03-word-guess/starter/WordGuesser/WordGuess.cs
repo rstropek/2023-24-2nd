@@ -58,7 +58,8 @@ public class WordGuess
     /// </summary>
     /// <remarks>
     /// This constructor picks a random word from <see cref="AvailableWords"/>  and
-    /// stores it in <see cref="WordToGuess"/>. It then calls <see cref="GetInitialGuess"/>.
+    /// stores it in <see cref="WordToGuess"/>. It then calls <see cref="GetInitialGuess"/>
+    /// and stores the result in <see cref="CurrentGuess"/>.
     public WordGuess()
     {
         // TODO: Implement the constructor
