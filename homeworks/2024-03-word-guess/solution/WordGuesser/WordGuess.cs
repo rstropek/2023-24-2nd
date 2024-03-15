@@ -167,9 +167,9 @@ public class EasyWordGuess : WordGuess
             do
             {
                 letter = WordToGuess[Random.Shared.Next(WordToGuess.Length)];
-            } while (letter == ' ' || revealed.Contains(letter));
+            } while (letter == ' ' || revealed.Contains(char.ToLower(letter)));
 
-            revealed.Add(letter);
+            revealed.Add(char.ToLower(letter));
             for (var j = 0; j < WordToGuess.Length; j++)
             {
                 if (char.ToLower(WordToGuess[j]) == char.ToLower(letter))
