@@ -88,7 +88,6 @@ public class LineImporter
     /// <remarks>
     /// The import can fail unter the following conditions:
     /// - <paramref name="lines"/> is empty
-    /// - The header line is missing or contains invalid column names or the order of columns is wrong
     /// - A line contains invalid data (missing column, empty column, wrong data type, negative values)
     /// - The same EAN appears multiple times in the lines
     /// In all cases, the exception message should contain a meaningful error message.
