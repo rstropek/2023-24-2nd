@@ -1,0 +1,26 @@
+EAN,Name,VATPercentage,NetPrice,UnitOfMeasure,IsMultiPack
+3548769012345,Apples,20,1.50,kg,false
+4567129034587,Bananas,20,0.30,kg,false
+9821345678901,Bread,20,2.00,pcs,false
+8976543210987,Cheese,20,5.00,kg,false
+6754890123678,Chicken Breasts,20,8.00,kg,false
+1234567890123,Tomatoes,20,1.20,kg,false
+8912345670123,Rice,20,2.50,pcs,true
+4587091234567,Eggs (Dozen),20,2.50,pcs,false
+6753091287456,Butter 250g,20,3.00,pcs,false
+2109876543987,Orange Juice,20,1.80,pcs,true
+1098765432901,Mineral Water (6-pack),20,3.50,pcs,true
+5678932104987,Chocolate Bar,20,1.20,pcs,false
+8709234567812,Ground Beef,20,7.00,kg,false
+1234567890234,Spaghetti,20,1.50,pcs,true
+8790234561876,Shampoo,20,4.50,pcs,false
+4567891230789,Toilet Paper (Pack of 4),20,3.00,pcs,false
+2145638901278,AA Batteries (Pack of 8),20,5.50,pcs,false
+2145689701234,Yogurt,20,0.80,pcs,false
+8745690123456,Salad Mix,20,2.00,pcs,false
+5678901234012,Steak,20,15.00,kg,false
+5678901238901,Applesauce,20,1.50,pcs,false
+9012345678902,Potatoes,20,0.80,kg,false
+1234012345678,Orange (Net),20,0.60,pcs,true
+4012345678901,Almonds,20,3.50,kg,false
+7890123456789,Coffee,20,6.00,pcs,true
