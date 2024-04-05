@@ -90,7 +90,7 @@ public class ProductImporterTests
         var lines = new string[]
         {
             "EAN,Name,VATPercentage,NetPrice,UnitOfMeasure,IsMultiPack",
-            "1234567890123,Product1,Standard,InvalidNetPrice,Pieces,false"
+            "1234567890123,Product1,Standard,InvalidNetPrice,pcs,false"
         };
 
         var importer = new ProductImporter();
@@ -118,7 +118,7 @@ public class ProductImporterTests
         var lines = new string[]
         {
             "EAN,Name,VATPercentage,NetPrice,UnitOfMeasure,IsMultiPack",
-            "1234567890123,Product1,Standard,100,Pieces,InvalidIsMultiPack"
+            "1234567890123,Product1,Standard,100,pcs,InvalidIsMultiPack"
         };
 
         var importer = new ProductImporter();
@@ -132,7 +132,7 @@ public class ProductImporterTests
         var lines = new string[]
         {
             "EAN,Name,VATPercentage,NetPrice,UnitOfMeasure,IsMultiPack",
-            "1234567890123,Product1,InvalidVATPercentage,100,Pieces,false"
+            "1234567890123,Product1,InvalidVATPercentage,100,pcs,false"
         };
 
         var importer = new ProductImporter();
@@ -146,7 +146,7 @@ public class ProductImporterTests
         var lines = new string[]
         {
             "EAN,Name,VATPercentage,NetPrice,UnitOfMeasure,IsMultiPack",
-            "1234567890123,Product1,Standard,-100,Pieces,false"
+            "1234567890123,Product1,Standard,-100,pcs,false"
         };
 
         var importer = new ProductImporter();
