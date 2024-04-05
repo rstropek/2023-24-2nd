@@ -34,22 +34,8 @@ public class EasyGuessTests
         // The test makes sure that exactly three different letters
         // are revealed in the initial guess.
 
-        // Arrange
-        var wordGuess = new EasyWordGuessMockSingleWord();
-
-        // Act
-        var currentGuess = wordGuess.CurrentGuess;
-
-        // Assert
-        var chars = new HashSet<char>();
-        foreach (var c in currentGuess)
-        {
-            chars.Add(c);
-        }
-
-        // Use 4 because the word contains three different letters
-        // and the underscore character.
-        Assert.Equal(4, chars.Count);
+        // TODO: Implement the requested logic
+        throw new NotImplementedException();
     }
 
     [Fact]
@@ -61,13 +47,7 @@ public class EasyGuessTests
         // underscores because the word to guess contains less than
         // four different letters.
 
-        // Arrange
-        var wordGuess = new EasyWordGuessMockShort();
-
-        // Act
-        var currentGuess = wordGuess.CurrentGuess;
-
-        // Assert
-        Assert.Equal("___", currentGuess);
+        // TODO: Implement the requested logic
+        throw new NotImplementedException();
     }
 }

@@ -22,15 +22,8 @@ public class HardGuessTests
         // and make sure that the occurrence of "S" (uppercase) 
         // was not revealed.
 
-        // Arrange
-        var wordGuess = new HardWordGuessMockSingleWord();
-
-        // Act
-        var result = wordGuess.Guess('s');
-
-        // Assert
-        Assert.True(result);
-        Assert.Equal("____s__________", wordGuess.CurrentGuess);
+        // TODO: Implement the requested logic
+        throw new NotImplementedException();
     }
 
     [Fact]
@@ -41,14 +34,7 @@ public class HardGuessTests
         // the guessed letter. Guess the letter "o" and make sure
         // that only the first occurrence is revealed.
 
-        // Arrange
-        var wordGuess = new HardWordGuessMockSingleWord();
-
-        // Act
-        var result = wordGuess.Guess('o');
-
-        // Assert
-        Assert.True(result);
-        Assert.Equal("__o____________", wordGuess.CurrentGuess);
+        // TODO: Implement the requested logic
+        throw new NotImplementedException();
     }
 }
