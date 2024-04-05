@@ -1,4 +1,6 @@
-﻿namespace Invoice.Logic;
+﻿using System.Globalization;
+
+namespace Invoice.Logic;
 
 public enum UnitOfMeasure
 {
@@ -73,7 +75,9 @@ public class ProductImporter
                 throw new ProductImportException($"Invalid line {i}");
             }
 
-            if (!decimal.TryParse(line[3], out var netPrice) || netPrice < 0)
+            // Note: CultureInfo.InvariantCulture ensures that the english
+            // number format is used.
+            if (!decimal.TryParse(line[3], CultureInfo.InvariantCulture, out var netPrice) || netPrice < 0)
             {
                 throw new ProductImportException($"Invalid NetPrice in line {i}");
             }
@@ -88,7 +92,7 @@ public class ProductImporter
                 throw new ProductImportException($"Invalid IsMultiPack in line {i}");
             }
 
-            if (!decimal.TryParse(line[2], out var vatPercentage) || vatPercentage is not 10 and not 20)
+            if (!decimal.TryParse(line[2], CultureInfo.InvariantCulture, out var vatPercentage) || vatPercentage is not 10 and not 20)
             {
                 throw new ProductImportException($"Invalid VATPercentage in line {i}");
             }

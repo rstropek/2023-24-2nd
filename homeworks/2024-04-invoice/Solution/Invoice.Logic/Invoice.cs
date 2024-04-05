@@ -1,3 +1,5 @@
+using System.Globalization;
+
 namespace Invoice.Logic;
 
 public abstract class Line { }
@@ -50,7 +52,7 @@ public class LineImporter
                 throw new InvoiceLineImportException("Invoice line is missing data");
             }
 
-            if (!decimal.TryParse(parts[2], out var quantity) || quantity < 0)
+            if (!decimal.TryParse(parts[2], CultureInfo.InvariantCulture, out var quantity) || quantity < 0)
             {
                 throw new InvoiceLineImportException("Quantity is not a number");
             }
@@ -64,7 +66,7 @@ public class LineImporter
                 throw new InvoiceLineImportException("Discount line is missing data");
             }
 
-            if (!decimal.TryParse(parts[1], out var percentage) || percentage < 0)
+            if (!decimal.TryParse(parts[1], CultureInfo.InvariantCulture, out var percentage) || percentage < 0)
             {
                 throw new InvoiceLineImportException("Percentage is not a number");
             }
