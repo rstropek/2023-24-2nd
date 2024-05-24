@@ -66,3 +66,16 @@ Do you want an extra challenge that goes beyond what is required in the upcoming
 The rest of the program should work the same way as in the base requirements.
 
 You can find a sample solution in the folder [_AdvancedVersion_](./AdvancedVersion).
+
+### Extra Challenges
+
+Still not enough? Here are some additional challenges (no sample solutions provided):
+
+* Add a _Solve_ button at the bottom of the screen right next to the _Check_ button. If the user clicks the _Solve_ button, the program should fill out the entire pyramid with the correct numbers.
+
+* Add a _Verify_ button. It does the same as _Check_ but _without_ displaying incorrect answers in red. _Verify_ just shows a message box telling the user whether everything is fine or not.
+
+* Add a _Hint_ button at the bottom of the screen right next to the _Check_ button. If the user clicks the _Hint_ button, the program should do the following:
+  * First, it runs the checking logic. In this case, the checking logic should only check the numbers that the user has already filled out. Incorrect answers should be displayed in red.
+  * If there are no incorrect answers, but there are still empty cells, the program should fill out _one_ empty cell. Fill out a cell that is nearest to the bottom of the pyramid. If there are multiple empty cells at the same level, choose one randomly.
+  * If all answers are correct and there are no empty cells, _Hint_ should do nothing.
