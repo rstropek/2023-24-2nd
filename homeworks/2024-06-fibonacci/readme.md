@@ -23,6 +23,10 @@ Here is a screen video showing the game in action:
 
 ![Screen Video](./screen-video.gif)
 
+Take a close look at how the content of the window reacts to changes in the window size:
+
+![Scaling](./scaling.jpg)
+
 ## Requirements
 
 ### Base Requirements
@@ -32,12 +36,16 @@ You need to solve the following requirements to pass the exam:
 * When the game starts, the player sees the first two numbers in the Fibonacci sequence: 0 and 1.
 * The player can enter the next number.
 * Try to rebuild the UI from the screen video as closely as possible.
-  * Tip: Use a `WrapPanel` to display the sequence of numbers. The syntax is very similar to a `StackPanel`. If necessary, lookup the documentation for the `WrapPanel` online.
+  * Tip: Use a `WrapPanel` to display the sequence of numbers. The syntax is very similar to a `StackPanel`, just write `WrapPanel` instead of `StackPanel` in XAML.
 * If the player's answer is correct, the entered number is added to the sequence and the player has to guess the next number.
 * If the player's answer is incorrect, display a message box with the content _That is wrong_.
 * No points
 * No lives
 * No restart option
+
+Note that your XAML layout should group each input field with its corresponding arrow/button. Think about a container you could use for that. This is important to make sure that the wrap panel breaks the line after each input field and arrow/button pair. Grouping prevents the wrap panel from breaking the line between the input field and the arrow/button.
+
+![Grouping](./group.jpg)
 
 ### Level 2
 
