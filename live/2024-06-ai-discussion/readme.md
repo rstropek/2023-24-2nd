@@ -38,6 +38,9 @@ Q: Was glaubt ihr, wie sieht Programmieren in 5 Jahren aus?
   https://www.youtube.com/live/pKXDVsWZmUU?si=z_89I1z0JWXjX1jR&t=3108
   Was bedeuten "Digital Humans" für die Zukunft von Arbeit?
 
+* Mira Murati (CTO OpenAI) on current AI developments and AI in the workplace
+  https://youtu.be/yUoj9B8OpR8?si=BtGQk0eFKMLqS1xy
+
 * GPT-4o, Two AIs talking:
   https://youtu.be/MirzFk_DSiI?si=FoclPLlqI1kCB4zm&t=51
   Welche Auswirkung hat so natürliche Sprachausgabe?
