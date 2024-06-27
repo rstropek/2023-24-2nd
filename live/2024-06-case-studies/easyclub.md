@@ -1,5 +1,7 @@
 # Case Study: EasyClub
 
+![Hero image](./presentation.jpg)
+
 ## Beschreibung der Firma *BrightMind Software GmbH*
 
 *BrightMind Software GmbH* ist ein junges, dynamisches Unternehmen, das sich auf die Entwicklung von innovativen Softwarelösungen spezialisiert hat. Gegründet von ehemaligen Universitätsabsolventen, hat sich das Unternehmen schnell einen Namen in der Technologiebranche gemacht. Mit modernen Büroräumen im Herzen von Linz und einem kreativen, engagierten Team aus talentierten Entwicklern und Projektmanagern strebt BrightMind Software danach, komplexe Herausforderungen mit einfachen, effektiven Softwarelösungen zu meistern. Das Unternehmen legt großen Wert auf eine angenehme Arbeitsatmosphäre, flexible Arbeitszeiten und die Förderung von Talenten.

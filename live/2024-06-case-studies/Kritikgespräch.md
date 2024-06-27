@@ -1,5 +1,7 @@
 # Rollenspielübung: Kritikgespräch
 
+![Hero image](./discussion.jpg)
+
 ## Hintergrund
 
 *CodeTech Solutions* ist eine Softwareentwicklungsfirma mit über 500 MitarbeiterInnen. Die Firma ist bekannt für ihre innovativen Softwarelösungen und ihre flexible Arbeitskultur, die es den MitarbeiterInnen erlaubt, ihre Arbeit frei zwischen Home Office und Büro einzuteilen. Trotz der Flexibilität legt das Unternehmen großen Wert auf Qualität und Termintreue bei der Softwareentwicklung.
