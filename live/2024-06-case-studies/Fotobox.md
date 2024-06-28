@@ -8,11 +8,17 @@ Ihr seid ein Team von Computer Science Studierenden an einer Schule und habt im 
 
 In der heutigen Zeit machen viele Menschen unzählige Fotos mit ihren Smartphones und Digitalkameras. Doch die Speicherung dieser Fotos in der Cloud birgt Risiken für die Privatsphäre, da Cloud-Dienste potenziell anfällig für Datenschutzverletzungen sind. Deshalb bevorzugen viele privatsphärebewusste Anwender Geräte, die Fotos lokal auf SD-Karten speichern. Diese Nutzer möchten ihre Fotos lieber zu Hause aufbewahren, ohne dass sie jemals online hochgeladen werden.
 
-Eure _Foto Box_ bietet eine Lösung, die diese Bedürfnisse erfüllt, indem sie Hardware und Software kombiniert:
+Eure _Foto Box_ bietet eine Lösung, die diese Bedürfnisse erfüllt, indem sie Hardware und Software kombiniert.
 
 - **Hardware:** Ein Gerät, in das man SD-Karten einstecken kann. Die Hardware erkennt automatisch neue Fotos auf der SD-Karte und nutzt lokal ausgeführte KI-Algorithmen, um identische Fotos zu erkennen und automatisch das beste Foto auszuwählen. Außerdem verwendet ihr fortschrittliche Kompressionsalgorithmen, um die Fotos in der _Foto Box_ effizient zu speichern. Die _Foto Box_ wird es in verschiedenen Ausführungen mit unterschiedlich viel Speicherplatz geben und der Speicher wird nachträglich - natürlich mit technisch bedingten Limits - erweiterbar sein.
 
 - **Software:** Begleitende Apps für alle wichtigen Plattformen (iOS, Android, Windows, Smart TVs), die es ermöglichen, von überall auf die Foto Box zuzugreifen. Ihr baut dabei auf einer optimierten Open Source VPN-Software auf, die eine sichere Verbindung zwischen der App und der Foto Box herstellt, ohne dass eine Firewall geöffnet werden muss. Der Cloud-Dienst dient nur zur Verbindungsherstellung, sieht aber die Fotos selbst nie. Die Fotos werden direkt von der Foto Box zur App übertragen und dort angezeigt. Zur Datensicherung können Fotos verschlüsselt in Onlinespeichern verschiedener Anbieter gesichert werden, sodass sie in der Cloud nie unverschlüsselt auftauchen.
+
+- **Sicherheit beim Teilen:** Man kann über die App Fotos mit anderen Personen teilen und dabei wählen, ob die Fotos heruntergeladen werden dürfen und ob KI-basiert Gesichter automatisch verpixelt werden.
+
+- **Standardkomponenten:** Die erste Version der _Foto Box_ verwendet intern Standardkomponenten (Basis: Raspberry Pi), um die Entwicklungskosten niedrig zu halten. Nur das Gehäuse wird zwecks Wiedererkennungswert speziell für die _Foto Box_ entwickelt.
+
+- **Nachhaltigkeit:** Das Multi-Kartenlesemodul der _Foto Box_ ist intern über USB-C angeschlossen und kann bei neuen Entwicklungen modular ausgetauscht werden. Updates holt sich die _Foto Box_ über das Internet. Beim Gehäuse wird auf recycelbare Materialien und leichtes Öffnen zwecks Reparierbarkeit geachtet.
 
 Ihr habt bereits einen funktionierenden Prototyp entwickelt, der zeigt, dass das Konzept technisch machbar ist. Jetzt benötigt ihr finanzielle Unterstützung, um die Hard- und Softwareentwicklung weiter voranzutreiben sowie Vertrieb und Marketing aufzubauen. Insgesamt habt ihr einen Finanzierungsbedarf von 750.000€, von denen ihr 300.000€ durch eigene Ersparnisse und Investments von Verwandten und Freunden aufbringen könnt. Es fehlen euch also noch 450.000€.
 
